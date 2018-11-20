@@ -21,3 +21,4 @@ Completed 4 Aviation Software Projects, SAST, DAST Compliance and HA
   * GSM: +90 541-831-9252
   * Email: serdar.sarioglu@icloud.com
   * LinkedIn: in/serdarsarioglu
+ 
