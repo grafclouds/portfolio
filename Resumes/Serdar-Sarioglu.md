@@ -14,10 +14,10 @@
 **Cloud Solutions & DevOps Architect**, _General Electric (Energy) 2017 – Present_<br />
 Responsible for GE Aviation’s Cloud Infra, designing new engages and migrations. Building CD/CI and automations for AWS, Azure and Predix. Helping teams for their DevOps and SecOps operations.
 
-* Work with Developer PODS, Design Cloud Architecture
-* Migrate Legacy Applications to Docker Kubernetes/Swarm Clusters
-* Build Pipelines with Jenkins, Make Automations on Cloud
-* Work with Developer PODS, Design Cloud Architecture
+  * Work with Developer PODS, Design Cloud Architecture
+  * Migrate Legacy Applications to Docker Kubernetes/Swarm Clusters
+  * Build Pipelines with Jenkins, Make Automations on Cloud
+  * Work with Developer PODS, Design Cloud Architecture
 
 - [x] Built Hybrid Cloud Eco System, NOO – Fly Dubai Micro Services
 - [x] Completed 4 Aviation Software Projects, SAST, DAST Compliance and HA
@@ -25,19 +25,19 @@ Responsible for GE Aviation’s Cloud Infra, designing new engages and migration
 **Cloud Solutions Architect**, _Exact NL (ERP & Accounting Cloud) 2016 – 2017_<br />
 Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
 
-* Cloud Infra Design & Deployments on AWS, CD/CI for Exact Online
-* SOC Reports, Security Instances Response, and Compliance Acceptances
+  * Cloud Infra Design & Deployments on AWS, CD/CI for Exact Online
+  * SOC Reports, Security Instances Response, and Compliance Acceptances
 
 - [x] Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 - [x] Akamai Integration, Stabilized Network and Load, Increased Cloud Security Level
 
 **IT Coordinator (Infra & Security)**, _TUPRAS TR (Oil & Gas) 2008 – 2016_<br />
-Responsibe for Oil Refinery Infrastructure
-* Managed Refinery IT/OT Teams
-* Responsible for Production (ERP) and SAP and ICS Servers & Cloud Infra (AWS, Azure)
-* Responsible for Cyber Security (Firewalls, WAF, APT) / Instance Reporting, Audits & Forensics
-* Involved in Designing and Managing a large variety of Infrastructures (8,000+ Clients)
-* Responsible for Active Directory, Exchange, Database Servers, Virtual Infra (VMware, O365)
+Responsibe for Oil Refinery Infrastructure and Cyber Security Team
+  * Managed Refinery IT/OT Teams
+  * Responsible for Production (ERP) and SAP and ICS Servers & Cloud Infra (AWS, Azure)
+  * Responsible for Cyber Security (Firewalls, WAF, APT) / Instance Reporting, Audits & Forensics
+  * Involved in Designing and Managing a large variety of Infrastructures (8,000+ Clients)
+  * Responsible for Active Directory, Exchange, Database Servers, Virtual Infra (VMware, O365)
 
 - [x] Completed RUP (New Refinery) US$2.7bn IT Infrastructure on Time with Calculated Budget
 - [x] Completed Mobile Datacenter Project 650K+ $ (First Made in Turkey – Disaster Site)
@@ -53,9 +53,9 @@ Responsibe for Oil Refinery Infrastructure
 - [x] Optimized Central and Branch Sites Topology, Backup & DR Plans (%99,94 SLA)
 
 **IT Network Administrator**, _Ford Motor Company TR (Automotive) 2006 – 2007_
-* Managed Dealer Intranet (Turkey's biggest with 200 sites and over 5,000+ clients)
-* Managed Core Network, Cisco routers - IP Telephony Infrastructure by %99,96 SLA
-* Managed Ford Production Line Linux Servers, WAN Links (Point-to-Point with England)
+  * Managed Dealer Intranet (Turkey's biggest with 200 sites and over 5,000+ clients)
+  * Managed Core Network, Cisco routers - IP Telephony Infrastructure by %99,96 SLA
+  * Managed Ford Production Line Linux Servers, WAN Links (Point-to-Point with England)
 
 - [x] Upgraded, Installed and Troubleshoot Networks Devices (IOS Upgrade, backup)
 - [x] Integrated Backup GPRS with Production and Dealer Networks (Improve Uptime %99.98)
