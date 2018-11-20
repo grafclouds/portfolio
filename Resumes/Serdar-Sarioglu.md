@@ -60,3 +60,10 @@ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ 
 * **Member**, Institute of Electrical and Electronics Engineers, IEEE
 * **Member**, Turkey Amateur Radio Association – Type A License Holder (TA2NQN)
 * **Member**, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
+
+---
+#### Skills Keywords
+Cloud, DevOps, SecOps, Project Management, Audit, Security, Amazon Web Services, Azure, Google Cloud, Kubernetes, Docker, Ansible, Jenkins, ACSA, CCSP, MCSE, CEH, VCP, CCNA, Agile, Scrum, CI/CD, Distributed Systems
+
+---
+`⌘  Publication Date: Nov 2018`
