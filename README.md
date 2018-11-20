@@ -15,8 +15,8 @@ We are the organization of IT Engineers, making complex cloud operations simple 
     * [Securing the Cloud](Trainings.md#securing-the-cloud)
 * **[Organization](Resumes)** (Team Members)
     * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md) `(Cloud Architect)`
-    * [Canberk Aslan](Resumes/) (DevOps Expert)
-    * [Ishak Arslan](Resumes/) (Cyber Security Architect)
+    * [Canberk Aslan](Resumes/) `(DevOps Expert)`
+    * [Ishak Arslan](Resumes/) `(Cyber Security Architect)`
     
 ----
 ⌘ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
