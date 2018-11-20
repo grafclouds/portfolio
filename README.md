@@ -7,7 +7,7 @@ We are the organization of IT Engineers, making complex cloud operations simple 
   * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
 
-:octocat: **[Training List](Trainings.md)** `(Things We Teach)`
+:mortar_board: **[Training List](Trainings.md)** `(Things We Teach)`
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
   * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
   * [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
