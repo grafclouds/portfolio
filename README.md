@@ -1,5 +1,5 @@
 ## Introduction
-We are the organization of IT Engineers, making complex cloud operations simple & stable for six years.
+We are an organization of IT Engineers, making complex cloud operations simple & stable for six years.
 
 :cloud: **[What We Do?](WhatWeDo.md#what-we-do)** `(Our Know-How Map)`
   * [Cloud Management](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
