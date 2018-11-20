@@ -44,7 +44,7 @@
     * Messaging Collaborations (Exchange, Office 365)
     * Skype For Bussiness (VoIP Integrations, BPA, Federations)
     * Patch and Software Management (WSUS, SCCM)
-* **Open Source Solutions _(Ubuntu, Centos, RHEL, SLES, BSD)_**
+* **Open Source Solutions _(Ubuntu, Centos, RHEL, SLES, *BSD)_**
     * Web Server Optimizations, BPA (IIS, Apache, Nginx)
     * Account Management - AAA (OpenLDAP, Atlassian Crowd)
     * Email (Zimbra, QMail, Exim)
@@ -52,7 +52,7 @@
     * Caching and Performance Optimization (Redis, RabbitMQ)
 * **Monitoring**
     * Proactive Response with Cloud (Uptrends & VictorOps)
-    * Infrastructure Monitoring (Zabbix, Nagios)
+    * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
     * Application and Infrastructure Monitoring (New Relic)
 * **Big Data**
     * HDFS, HDF, Kafka, Spark, Storm, MapReduce, Hive
@@ -92,20 +92,22 @@
 
 #### :police_car: Cyber Security
 * **Firewalls, IPS, Load Balances, WAF**
-  * PF Sense
+  * PFSense
   * Juniper
   * Check Point
   * Palo Alto
   * Nginx/Nginx Plus
   * Big IP, Netscaler
 * **Email Security**
-  * Spam Assasin
+  * Spamassasin
   * Iron Port
 * **APT**
   * FireEye
 * **SOC / SIEM**
-  * Ossec, Wazuh
-  * Snort, Suricata
+  * HIDS (Ossec, Wazuh)
+  * Splunk / Phantom
+  * Apache Metron
+  * NIDS (Snort, Suricata)
   * Netflow, Sflow
   * Continuous Vulnerability Scanner, Nessus
 * **Source Code Analysis**
