@@ -2,10 +2,10 @@
 We are the organization of IT Engineers, making complex cloud operations simple & stable as it customers for six years.
 
 * **Knowledge Subjects:**
-* [Cloud Management](README.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-* [System Management](README.md#circus_tent-system-management)
-* [Devops & Transition](README.md#octocat-devops--transition)
-* [Cyber Security](README.md#police_car-cyber-security)
+    * [Cloud Management](README.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+    * [System Management](README.md#circus_tent-system-management)
+    * [Devops & Transition](README.md#octocat-devops--transition)
+    * [Cyber Security](README.md#police_car-cyber-security)
 
 ⌘ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
 
