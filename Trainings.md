@@ -3,12 +3,12 @@ Graf Clouds is a cloud computing and DevOps Company makes complex cloud operatio
 
 #### Training List
 Graf Clouds Training List
-* [Amazon Web Services Solutions Associate](Trainings.md#training-styles)
-* Microsoft Azure Essentials
-* Google Cloud Fundamentals
-* DevOps on the Cloud
-* Docker Fundamentals & Enterprise Operations with Kubernetes
-* Securing the Cloud
+* [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
+* [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
+* [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
+* [DevOps on the Cloud](Trainings.md#devops-on-the-cloud)
+* [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
+* [Securing the Cloud](Trainings.md#securing-the-cloud)
 
 #### Training Styles
 Training is fully made hands-on and, Graf Clouds presents its own know-how and documents.
