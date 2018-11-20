@@ -55,7 +55,7 @@
 * **Monitoring**
     * Proactive Response with Cloud (Uptrends & VictorOps)
     * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
-    * Application and Infrastructure Monitoring (New Relic)
+    * Application Monitoring (New Relic)
 * **Big Data**
     * HDFS, HDF, Kafka, Spark, Storm, MapReduce, Hive
     * ELK Stack
