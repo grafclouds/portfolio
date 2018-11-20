@@ -1,7 +1,6 @@
 ## M. Serdar SARIOGLU _(Cloud Solution Architect & Security Expert)_
 **GSM**: +90 541-831-9252 | **Email**: serdar.sarioglu@icloud.com | **LinkedIn**: [in/serdarsarioglu](https://www.linkedin.com/in/serdarsarioglu/)
 
----
 #### Work History
 **Cloud Solutions & DevOps Architect**, _General Electric (Energy) 2017 – Present_<br />
 Responsible for GE Aviation’s Cloud Infra, designing new engages and migrations. Building CD/CI and automations for AWS, Azure and Predix. Helping teams for their DevOps and SecOps operations.
