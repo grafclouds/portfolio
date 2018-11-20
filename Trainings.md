@@ -209,3 +209,6 @@ In this training you will learn how to secure Cloud, you will able to understand
 
 **Prerequisites**
 * Basic Networking Knowledge (TCP/IP)
+
+---
+`⌘  Publication Date: Nov 2018`
