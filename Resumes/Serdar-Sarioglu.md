@@ -5,10 +5,6 @@
    * Email: serdar.sarioglu@icloud.com
    * LinkedIn: in/serdarsarioglu
 
-**Degree:** **MSc** (Eng. Man.), **BA** (Electronics & Communication Engineer)<br />
-**Experience:** Distributed Infrastructures, Cloud, Integrations, DevOps & SecOps<br />
-**Worked Industries:** Aviation, Energy, Oil & Gas, Finance, Telecom, Automotive
-
 ---
 #### Work History
 **Cloud Solutions & DevOps Architect**, _General Electric (Energy) 2017 – Present_<br />
