@@ -1,8 +1,8 @@
 #### M. Serdar SARIOGLU _(Cloud Solution Architect & Security Expert)_
 
-**Degree:** MSc (Eng. Man.), BA (Electronics & Communication Engineer)
-**Experience:** Distributed Infrastructures, Cloud, Integrations, DevOps & SecOps
-**Worked Industries:** Aviation, Energy, Oil & Gas, Finance, Telecom, Automotive
+**Degree:** MSc (Eng. Man.), BA (Electronics & Communication Engineer)__
+**Experience:** Distributed Infrastructures, Cloud, Integrations, DevOps & SecOps__
+**Worked Industries:** Aviation, Energy, Oil & Gas, Finance, Telecom, Automotive__
  
 ---
 **Contact Details**
