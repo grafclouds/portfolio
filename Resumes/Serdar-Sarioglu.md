@@ -1,4 +1,4 @@
-## M. Serdar SARIOGLU _(Cloud Solution Architect & Security Expert)_
+## M. Serdar SARIOGLU - (Cloud Solution Architect & Security Expert)
 
 #### Contact Details
    * GSM: +90 541-831-9252
