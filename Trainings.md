@@ -27,6 +27,7 @@ Registrations are made on online form: https://goo.gl/iWiPZB
 GC-AWS (4 Days, Local & Online Available)
 
 **Course Overview**
+
 In this Amazon Web Services (AWS) course, you will learn all the essential skills to architect your IT solutions on AWS. Gain in-depth knowledge of the AWS platform and how to leverage AWS services for your specific cloud-based application.
 
 This 4-day, hands-on training provides current AWS cloud best practices and AWS architecture principles covering the entire process of designing IT infrastructure from beginning to end. Since AWS introduces an average of 200 new features and services annually, it is critical that you study the most recent innovations. 
@@ -40,7 +41,8 @@ To reinforce this material, you will also explore case studies with a variety of
 * Using the Well-Architected Framework to improve architectures with Amazon Web Services
 * Migrating On-Prem infrastructures to Public / Private AWS Solutions
 * Understanding Cloud Computing Concepts and Cloud Architecting methodologies with hands-on
-Classroom Live Outline
+
+**Classroom Live Outline**
 * Understand Cloud Computing, Amazon Web Services 
 * Regions, Edge Points, Availability Zones, Cloud front, Content Distribution, Traffic Management
 * EC2, AMI, ELB, Auto Scaling Groups, Spots, Placement Groups
