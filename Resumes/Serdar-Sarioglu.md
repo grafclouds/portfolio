@@ -16,6 +16,15 @@ Responsible for GE Aviation’s Cloud Infra, designing new engages and migration
 - [x] Built Hybrid Cloud Eco System, NOO – Fly Dubai Micro Services
 - [x] Completed 4 Aviation Software Projects, SAST, DAST Compliance and HA
 
+**Cloud Solutions Architect**, Exact NL (ERP & Accounting Cloud) 2016 – 2017<br />
+Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
+
+* Cloud Infra Design & Deployments on AWS, CD/CI for Exact Online
+* SOC Reports, Security Instances Response, and Compliance Acceptances
+
+- [x] Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
+- [x] Akamai Integration, Stabilized Network and Load, Increased Cloud Security Level
+
 ---
 **Contact Details**
   * GSM: +90 541-831-9252
