@@ -26,7 +26,8 @@
     * WAF Deployment
     * DOS Protection
 * **Serverless _(Docker, CloudFoundry)_**
-    * Create Container Based Micro Services
+    * Container Based Deployment
+    * Convert Legacy Apllications to Micro Services
     * Create Docker Images, DTR, ACR
     * Deploy Kubernetes, Swarm Clusters, Mesos
     * Create Helm Charts
