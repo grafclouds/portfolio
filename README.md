@@ -7,7 +7,7 @@ We are the organization of IT Engineers, making complex cloud operations simple 
 * [Devops & Transition](README.md#octocat-devops--transition)
 * [Cyber Security](README.md#police_car-cyber-security)
 
-`⌘  Please do not hesitate to contact us. Fill the ⇥ [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.`
+⌘  Please do not hesitate to contact us. Fill the ⇥ [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
 
 ---
 ### What We Do?
@@ -135,4 +135,4 @@ We are the organization of IT Engineers, making complex cloud operations simple 
 * Best Practice Analysis
 
 ---
-⌘  Revision Date: Nov 2018
+`⌘  Revision Date: Nov 2018`
