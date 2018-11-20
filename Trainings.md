@@ -20,7 +20,8 @@ Graf Clouds Public VPC Sources will be used on AWS, Azure and Google Clouds
 Training is available in English and Turkish languages.
 
 #### Registrations
-Registrations are made on online form: https://goo.gl/iWiPZB 
+Registrations are made on online form: https://goo.gl/iWiPZB
+
 ---
 #### Amazon Web Services Solutions Associate
 GC-AWS (4 Days, Local & Online Available)
