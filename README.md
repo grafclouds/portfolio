@@ -1,11 +1,11 @@
 ## Introduction
 We are the organization of IT Engineers, making complex cloud operations simple & stable as it customers for six years.
 
-* **[What We Do?](README.md#what-we-do)**
-    * [Cloud Management](README.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-    * [System Management](README.md#circus_tent-system-management)
-    * [Devops & Transition](README.md#octocat-devops--transition)
-    * [Cyber Security](README.md#police_car-cyber-security)
+* **[What We Do?](WhatWeDo.md#what-we-do)**
+    * [Cloud Management](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+    * [System Management](WhatWeDo.md#circus_tent-system-management)
+    * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
+    * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
 * **[Training List](Trainings.md)**
     * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
     * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
