@@ -25,6 +25,7 @@ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ 
 - [x] Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 - [x] Akamai Integration, Stabilized Network and Load, Increased Cloud Security Level
 
+---
 #### Education & Languages
   * **MSc**; Engineering Management KOU (2012)
   * **BA**; Electronics & Communications Engineering (ECE), KOU (2006)
