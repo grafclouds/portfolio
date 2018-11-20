@@ -9,7 +9,8 @@ We are the organization of IT Engineers, making complex cloud operations simple 
 
 ⌘  Please do not hesitate to contact us. Fill the ⇥ [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
 
-## What We Do ?
+---
+### What We Do?
 #### :cloud: Cloud Management _(AWS, Azure, Google Cloud, RackSpace, BlueOcean, OVH)_
 * **Manage & Migrate Cloud**
     * Migrate Legacy Applications
