@@ -13,8 +13,8 @@ Responsible for GE Aviation’s Cloud Infra, designing new engages and migration
 * Build Pipelines with Jenkins, Make Automations on Cloud
 * Work with Developer PODS, Design Cloud Architecture
 
-Built Hybrid Cloud Eco System, NOO – Fly Dubai Micro Services
-Completed 4 Aviation Software Projects, SAST, DAST Compliance and HA
+- Built Hybrid Cloud Eco System, NOO – Fly Dubai Micro Services
+- Completed 4 Aviation Software Projects, SAST, DAST Compliance and HA
 
 ---
 **Contact Details**
