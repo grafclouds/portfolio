@@ -6,7 +6,6 @@ We are the organization of IT Engineers, making complex cloud operations simple 
     * [System Management](README.md#circus_tent-system-management)
     * [Devops & Transition](README.md#octocat-devops--transition)
     * [Cyber Security](README.md#police_car-cyber-security)
-    
 * **Our Trainings List**
     * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
     * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
