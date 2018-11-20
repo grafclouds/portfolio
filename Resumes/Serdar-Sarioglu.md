@@ -31,7 +31,8 @@ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ 
 - [x] Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 - [x] Akamai Integration, Stabilized Network and Load, Increased Cloud Security Level
 
-**IT Coordinator (Infra & Security)**, _TUPRAS TR (Oil & Gas) 2008 – 2016_
+**IT Coordinator (Infra & Security)**, _TUPRAS TR (Oil & Gas) 2008 – 2016_<br />
+Responsibe for Oil Refinery Infrastructure
 * Managed Refinery IT/OT Teams
 * Responsible for Production (ERP) and SAP and ICS Servers & Cloud Infra (AWS, Azure)
 * Responsible for Cyber Security (Firewalls, WAF, APT) / Instance Reporting, Audits & Forensics
@@ -45,8 +46,8 @@ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ 
 - [x] Migrated DMZ Servers to AWS (EC2, S3, ELB with Auto Scaling Groups)
 
 **IT System Administrator**, _MIRA TR (Telecom) 2007 – 2008_
-* Responsible for IT Infrastructure (Servers, Firewalls, Network Devices, Backup)
-* Managed Active Directory, Exchange, Database Servers, SCCM & Web Servers
+  * Responsible for IT Infrastructure (Servers, Firewalls, Network Devices, Backup)
+  * Managed Active Directory, Exchange, Database Servers, SCCM & Web Servers
 
 - [x] Solved Chronical Problems with Nagios & Bash Scripts, Improved Charging US$15K per/month
 - [x] Optimized Central and Branch Sites Topology, Backup & DR Plans (%99,94 SLA)
