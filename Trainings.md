@@ -23,7 +23,7 @@ Registrations are made on online form: https://goo.gl/iWiPZB
 
 ---
 #### Amazon Web Services Solutions Associate
-GC-AWS (4 Days, Local & Online Available)
+_GC-AWS (4 Days, Local & Online Available)_
 
 **Course Overview**
 
@@ -60,7 +60,7 @@ To reinforce this material, you will also explore case studies with a variety of
 ---
 
 #### Microsoft Azure Essentials
-GC-AZ (4 Days, Local and Remote / Online Available)
+_GC-AZ (4 Days, Local and Remote / Online Available)_
 
 **Course Overview**
 
@@ -94,7 +94,7 @@ This course provides the underlying knowledge required of all individuals who wi
 ---
 
 #### Google Cloud Fundamentals
-GC-GC (4 Days, Local and Remote / Online Available)
+_GC-GC (4 Days, Local and Remote / Online Available)_
 
 **Course Overview**
 
@@ -123,7 +123,7 @@ This instructor-led training provides an overview of Google Cloud Platform produ
 ---
 
 #### DevOps on the Cloud
-GC-DVPS (4 Days, Local and Remote / Online Available)
+_GC-DVPS (4 Days, Local and Remote / Online Available)_
 
 **Course Overview**
 
@@ -155,7 +155,7 @@ You will master configuration management; continuous integration deployment, del
 ---
 
 #### Docker Fundamentals & Ent. Op. with Kubernetes
-GC-DCK (4 Days, Local and Remote / Online Available)
+_GC-DCK (4 Days, Local and Remote / Online Available)_
 
 **Course Overview**
 
@@ -184,7 +184,7 @@ The Docker Fundamentals + Enterprise Operations Bundle includes the full Docker 
 ---
 
 #### Securing the Cloud
-GC-SEC (4 Days, Local and Remote / Online Available)
+_GC-SEC (4 Days, Local and Remote / Online Available)_
 
 **Course Overview**
 
