@@ -13,5 +13,6 @@ We are the organization of IT Engineers, making complex cloud operations simple 
     * [DevOps on the Cloud](Trainings.md#devops-on-the-cloud)
     * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
     * [Securing the Cloud](Trainings.md#securing-the-cloud)
-
+    
+----
 ⌘ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
