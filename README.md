@@ -14,9 +14,9 @@ We are the organization of IT Engineers, making complex cloud operations simple 
     * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
     * [Securing the Cloud](Trainings.md#securing-the-cloud)
 * **[Organization](Resumes)** (Team Members)
-    * [Serdar Sarioglu | _Cloud Architect_](Resumes/Serdar-Sarioglu.md)
-    * [Canberk Aslan | _DevOps Expert_](Resumes/)
-    * [Ishak Arslan | _Cyber Security Architect_](Resumes/)
+    * [Serdar Sarioglu _(Cloud Architect)_](Resumes/Serdar-Sarioglu.md)
+    * [Canberk Aslan _(DevOps Expert)_](Resumes/)
+    * [Ishak Arslan _(Cyber Security Architect)_](Resumes/)
     
 ----
 ⌘ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
