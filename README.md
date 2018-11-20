@@ -13,10 +13,11 @@ We are the organization of IT Engineers, making complex cloud operations simple 
     * [DevOps on the Cloud](Trainings.md#devops-on-the-cloud)
     * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
     * [Securing the Cloud](Trainings.md#securing-the-cloud)
-* **[Organization](Resumes)** `(Team Members)`
-    * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
-    * [Canberk Aslan](Resumes/)
-    * [Ishak Arslan](Resumes/)
+
+:octocat: **[Organization](Resumes)** `(Team Members)`
+   * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
+   * [Canberk Aslan](Resumes/)
+   * [Ishak Arslan](Resumes/)
     
 ----
 ⌘ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
