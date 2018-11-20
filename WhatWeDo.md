@@ -92,7 +92,7 @@
     * Slack
 ---
 
-#### :police_car: Cyber Security
+#### :lock: Cyber Security
 * **Firewalls, IPS, Load Balances, WAF**
   * PFSense
   * Juniper
