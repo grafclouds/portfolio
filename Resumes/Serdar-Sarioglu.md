@@ -5,7 +5,7 @@
 **Worked Industries:** Aviation, Energy, Oil & Gas, Finance, Telecom, Automotive
 
 #### Work History
-**Cloud Solutions & DevOps Architect**, General Electric (Energy) 2017 – Present<br />
+**Cloud Solutions & DevOps Architect**, _General Electric (Energy) 2017 – Present_<br />
 Responsible for GE Aviation’s Cloud Infra, designing new engages and migrations. Building CD/CI and automations for AWS, Azure and Predix. Helping teams for their DevOps and SecOps operations.
 
 * Work with Developer PODS, Design Cloud Architecture
@@ -16,7 +16,7 @@ Responsible for GE Aviation’s Cloud Infra, designing new engages and migration
 - [x] Built Hybrid Cloud Eco System, NOO – Fly Dubai Micro Services
 - [x] Completed 4 Aviation Software Projects, SAST, DAST Compliance and HA
 
-**Cloud Solutions Architect**, Exact NL (ERP & Accounting Cloud) 2016 – 2017<br />
+**Cloud Solutions Architect**, _Exact NL (ERP & Accounting Cloud) 2016 – 2017_<br />
 Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
 
 * Cloud Infra Design & Deployments on AWS, CD/CI for Exact Online
