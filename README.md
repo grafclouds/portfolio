@@ -50,6 +50,7 @@
     * Email (Zimbra, QMail, Exim)
     * Database Management, HA, Clustering & Optimizations (MsSql, Mysql, MongoDB, PostgreSql)
     * Caching and Performance Optimization (Redis, RabbitMQ)
+    * Patch and Software Management (Spacewalk)
 * **Monitoring**
     * Proactive Response with Cloud (Uptrends & VictorOps)
     * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
