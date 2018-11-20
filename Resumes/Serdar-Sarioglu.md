@@ -33,7 +33,6 @@ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ 
   * **English**: C2 | **Dutch**: B1 | **Turkish**: ML
 
 ---  
-#### ADDITIONAL EXPERIENCE
 #### Certifications
 * **CISSP**, Certified Information Systems Security Professional
 * **CISM**, Certified Information Security Manager – (Not yet, Training)
@@ -47,15 +46,15 @@ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ 
 * **CEH**, Certified Ethical Hacker
 
 #### Awards
-Innovation Award (Tüpraş), Mobile Datacenter Project
-R&D Award (Tüpraş), Based Ontological Analysis of IT Assets, EGE University
+* **Innovation Award (Tüpraş)**, Mobile Datacenter Project
+* **R&D Award (Tüpraş)**, Based Ontological Analysis of IT Assets, EGE University
 
 #### Associations
-Member, ISACA – Information Systems Audit and Control Association
-Member, ISC² – International Information System Security Certification Consortium
-Member, Institute of Electrical and Electronics Engineers, IEEE
-Member, Turkey Amateur Radio Association – Type A License Holder (TA2NQN)
-Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
+* **Member**, ISACA – Information Systems Audit and Control Association
+* **Member**, ISC² – International Information System Security Certification Consortium
+* **Member**, Institute of Electrical and Electronics Engineers, IEEE
+* **Member**, Turkey Amateur Radio Association – Type A License Holder (TA2NQN)
+* **Member**, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
 
 ---
 **Contact Details**
