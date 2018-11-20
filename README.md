@@ -105,11 +105,13 @@
   * FireEye
 * **SOC / SIEM**
   * HIDS (Ossec, Wazuh)
+  * Alienvault
   * Splunk / Phantom
   * Apache Metron
   * NIDS (Snort, Suricata)
   * Netflow, Sflow
   * Continuous Vulnerability Scanner, Nessus
+  * Full Packet Capture
 * **Source Code Analysis**
   * Manual Code Check
   * Sonar Tests
