@@ -19,19 +19,6 @@ We are an organization of IT Engineers, making complex cloud operations simple &
   * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
   * [Canberk Aslan](Resumes/)
   * [Ishak Arslan](Resumes/)
-  
-:paperclip: **Certifications** `(Team Members)` 
-  * **Itil V3** _Certificate_
-  * **UC4** _Certified Engineer_
-  * **CISSP**, _Certified Information Systems Security Professional_
-  * **CCSP**, _Certified Cloud Security Professional_
-  * **ACSA**, _Amazon Certified Solutions Architect_
-  * **VCP**, _VMware Certified Professional (Datacenter)_
-  * **MCP**, _Microsoft Certified Professional_
-  * **MCSA**, _Microsoft Certified Security Administrator_
-  * **MCSE**, _Microsoft Certified Systems Engineer_
-  * **CCNA**, _Cisco Certified Network Associate_
-  * **CEH**, _Certified Ethical Hacker_
     
 ----
 ⌘ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
