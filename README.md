@@ -7,7 +7,7 @@ We are an organization of IT Engineers, making complex cloud operations simple &
   * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
   
-:cloud: **[Professional Services](WhatWeDo.md#what-we-do)** `(Hosted Services)`
+:wrench: **[Professional Services](WhatWeDo.md#what-we-do)** `(Hosted Services)`
   * [Cloud Management](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
   * [Hosted Kubernetes](WhatWeDo.md#circus_tent-system-management)
   * [Hosted DevOps](WhatWeDo.md#octocat-devops--transition)
