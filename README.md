@@ -1,7 +1,7 @@
 ## Introduction
 We are an organization of IT Engineers, making complex cloud operations simple & stable for six years.
 
-:cloud: **[What We Do?](WhatWeDo.md#what-we-do)** `(Our Know-How Map)`
+:cloud: **[What We Do?](WhatWeDo.md#what-we-do) (Consultancy)** `(Our Know-How Map)`
   * [Cloud Management](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
   * [System Management](WhatWeDo.md#circus_tent-system-management)
   * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
