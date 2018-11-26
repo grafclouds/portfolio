@@ -6,7 +6,12 @@ We are an organization of IT Engineers, making complex cloud operations simple &
   * [System Management](WhatWeDo.md#circus_tent-system-management)
   * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
-
+  
+:cloud: **[Professional Services](WhatWeDo.md#what-we-do)** `(Hosted Services)`
+  * [Cloud Management](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+  * [Hosted Kubernetes](WhatWeDo.md#circus_tent-system-management)
+  * [Hosted DevOps](WhatWeDo.md#octocat-devops--transition)
+  
 :mortar_board: **[Training List](Trainings.md)** `(Things We Teach)`
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
   * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
