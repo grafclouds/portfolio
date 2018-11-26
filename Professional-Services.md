@@ -1,11 +1,11 @@
-## What We Do?
+## Professional Services
 #### :cloud: Cloud Management _(AWS, Azure, Google Cloud, RackSpace, BlueOcean, OVH)_
-* **Manage & Migrate Cloud**
-    * Migrate Legacy Applications
-    * Move Onprem to Cloud (Design --> Run)
-    * Manage Cloud Components, Load Balancers, DNS, Avalibity Zones
-    * Make Up & Running
-    * Schedule Backups, Disaster Recovery, Multi-Availability-Zone
+* **Manage Your Cloud**
+    * Monitor Source Usage
+    * Deploy Self Repair Instances
+    * Manage Traffic and Load
+    * Inteagrate to Cloud
+    * Create Advistories for Source Usage
 * **Cloud Optimisation**
     * Traffic and Campain Management, AutoScale, Capacity Management
     * Performance Analysis
