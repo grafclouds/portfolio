@@ -7,10 +7,10 @@ We are an organization of IT Engineers, making complex cloud operations simple &
   * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
   
-:wrench: **[Professional Services](Professional-Services.md#what-we-do)** `(Hosted Services)`
-  * [Cloud Management](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-  * [Hosted Kubernetes](WhatWeDo.md#circus_tent-system-management)
-  * [Hosted DevOps](WhatWeDo.md#octocat-devops--transition)
+:wrench: **[Professional Services](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)** `(Hosted Services)`
+  * [Cloud Management](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+  * [Hosted Kubernetes / Swarm](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+  * [Hosted DevOps](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
   
 :mortar_board: **[Training List](Trainings.md)** `(Things We Teach)`
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
