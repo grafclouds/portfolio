@@ -6,7 +6,7 @@
     * Manage Traffic and Load
     * Integrate to Cloud
     * Create Advistories for Source Usage
-* **Hosted Kubernetes**
+* **Hosted Kubernetes / Swarm** `(Deploy your apps to our Kubernetes / Swarm Clusters)`
     * Traffic and Campain Management, AutoScale, Capacity Management
     * Performance Analysis
     * Convert On-demand to Reserved Instances, Forecast Follow
