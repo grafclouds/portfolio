@@ -6,17 +6,16 @@
     * Manage Traffic and Load
     * Integrate to Cloud
     * Create Advistories for Source Usage
+    * Manage Backup / Disaster Recovery
 * **Hosted Kubernetes / Swarm** `(Deploy your apps to our Kubernetes / Swarm Clusters)`
-    * Traffic and Campain Management, AutoScale, Capacity Management
-    * Performance Analysis
-    * Convert On-demand to Reserved Instances, Forecast Follow
-    * Spot Management (Instance Bidding)
-    * Reduce Cost, Advisories
-* **Hosted DevOps**
-    * Ansible
-    * Puppet
-    * Chef
-    * Saltstack
-    * Terraform
+    * Ingress Traffic Management
+    * POD / Node / Deployment Management 
+    * Persist Data Management
+    * Kubernetes Monitoring and Logging
+* **Hosted DevOps** `(Let's run your CI/CD on Jenkins OR Azure DevOps)`
+    * Hosted Jenkins Setup (Cloud Based)
+    * CI/CD Integrations
+    * Build PipeLines
+
 ---
 `⌘  Publication Date: Nov 2018`
