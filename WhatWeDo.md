@@ -62,7 +62,7 @@
     * AWS EMR
 ---
 
-#### :octocat: Devops & Transition
+#### :octocat: Devops
 * **Repository Management**
     * GitHub
     * Bitbucket
