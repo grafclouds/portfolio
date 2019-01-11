@@ -1,6 +1,6 @@
 ## What We Do?
 #### :cloud: Cloud Consultancy _(AWS, Azure, Google Cloud, RackSpace, BlueOcean, OVH)_
-* **Manage & Migrate Cloud**
+* **Manage & Migrate to Cloud**
     * Migrate Legacy Applications
     * Move Onprem to Cloud (Design --> Run)
     * Manage Cloud Components, Load Balancers, DNS, Avalibity Zones
