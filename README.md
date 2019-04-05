@@ -1,5 +1,6 @@
 ## Introduction
-We are an organization of IT Engineers, making complex cloud operations simple & stable for six years.
+Graf-Clouds is helping customers to complete cloud projects with bringing multi-vendor solutions AWS (Amazon Web Services), Microsoft Azure, GC (Google Cloud), VMC (VMware Cloud), RackSpace, BlueOcean and OVH. 
+Automating IT operations with DevOps, Securing Infrastrucures!
 
 :cloud: **[What We Do?](WhatWeDo.md#what-we-do)** `(Our Know-How Map)`
   * [Cloud Consultancy](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
