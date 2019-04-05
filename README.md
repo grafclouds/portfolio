@@ -156,4 +156,6 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
 * Best Practice Analysis
 
 ----
-`⌘ Publication Date: Nov 2018 | Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.`
+`⌘ Publication Date: Nov 2018`
+
+Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
