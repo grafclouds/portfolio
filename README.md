@@ -4,16 +4,13 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
 
 :cloud: **[What We Do?](WhatWeDo.md#what-we-do)** `(Our Know-How Map)`
   * [Cloud Consultancy](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-  * [System Management](WhatWeDo.md#circus_tent-system-management)
+    * [Cloud Management](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+    * [Docker / Kubernetes / Swarm](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+    * [Site Reliability Engineering](WhatWeDo.md#circus_tent-system-management)
   * [Devops](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
   
-:wrench: **[Professional Services](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)** `(Hosted Services)`
-  * [Cloud Management](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-  * [Hosted Kubernetes / Swarm](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-  * [Hosted DevOps](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-  
-:mortar_board: **[Training List](Trainings.md)** `(Things We Teach)`
+:mortar_board: **[Training](Trainings.md)** `(Things We Teach)`
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
   * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
   * [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
