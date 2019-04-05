@@ -64,7 +64,7 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
     * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
 ---
 
-#### :circus_tent: System Management
+#### :circus_tent: Site Reliability Engineering
 * **Microsoft Servers**
     * Active Directory (BPA, Upgrade, Troubleshoot, GPO)
     * Messaging Collaborations (Exchange, Office 365)
