@@ -5,10 +5,10 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
 :cloud: **[What We Do?](#what-we-do)**
   * [Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
-    * [Docker / Kubernetes / Swarm](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-    * [Site Reliability Engineering](WhatWeDo.md#circus_tent-system-management)
-  * [Devops](WhatWeDo.md#octocat-devops--transition)
-  * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
+    * [Docker / Kubernetes / Swarm](ovh)
+    * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
+  * [Devops](#octocat-devops)
+  * [Cyber Security](#lock-cyber-security)
   
 :mortar_board: **[Training](Trainings.md)**
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
