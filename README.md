@@ -5,7 +5,7 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
 :cloud: **[What We Do?](WhatWeDo.md#what-we-do)** `(Our Know-How Map)`
   * [Cloud Consultancy](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
   * [System Management](WhatWeDo.md#circus_tent-system-management)
-  * [Devops & Transition](WhatWeDo.md#octocat-devops--transition)
+  * [Devops](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
   
 :wrench: **[Professional Services](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)** `(Hosted Services)`
