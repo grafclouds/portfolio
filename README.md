@@ -3,8 +3,8 @@ Graf-Clouds is helping customers to complete cloud projects with bringing multi-
 Automating IT operations with **DevOps**, Securing Infrastrucures!
 
 :cloud: **[What We Do?](#what-we-do)**
-  * [Cloud Consultancy](#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
-    * [Cloud Management](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
+  * [Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
+    * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Docker / Kubernetes / Swarm](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Site Reliability Engineering](WhatWeDo.md#circus_tent-system-management)
   * [Devops](WhatWeDo.md#octocat-devops--transition)
