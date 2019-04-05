@@ -64,6 +64,13 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
     * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
 ---
 
+#### :cloud: Docker / Kubernetes / Swarm
+* Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
+* Ingress Traffic Management
+* POD / Node / Deployment Management
+* Persist Data Management
+* Kubernetes Monitoring and Logging
+
 #### :circus_tent: Site Reliability Engineering
 * **Microsoft Servers**
     * Active Directory (BPA, Upgrade, Troubleshoot, GPO)
