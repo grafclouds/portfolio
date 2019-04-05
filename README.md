@@ -2,7 +2,7 @@
 Graf-Clouds is helping customers to complete cloud projects with bringing multi-vendor solutions **AWS** (Amazon Web Services), Microsoft **Azure**, GC (**Google Cloud**), VMC (**VMware Cloud**) and OVH. 
 Automating IT operations with **DevOps**, Securing Infrastrucures!
 
-:cloud: **[What We Do?](WhatWeDo.md#what-we-do)** `(Our Know-How Map)`
+:cloud: **[What We Do?](WhatWeDo.md#what-we-do)**
   * [Cloud Consultancy](WhatWeDo.md#cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Cloud Management](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Docker / Kubernetes / Swarm](Professional-Services.md##cloud-cloud-management-aws-azure-google-cloud-rackspace-blueocean-ovh)
@@ -10,7 +10,7 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
   * [Devops](WhatWeDo.md#octocat-devops--transition)
   * [Cyber Security](WhatWeDo.md#police_car-cyber-security)
   
-:mortar_board: **[Training](Trainings.md)** `(Things We Teach)`
+:mortar_board: **[Training](Trainings.md)**
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
   * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
   * [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
@@ -18,7 +18,7 @@ Automating IT operations with **DevOps**, Securing Infrastrucures!
   * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
   * [Securing the Cloud](Trainings.md#securing-the-cloud)
 
-:octocat: **[Organization & Resumes](Resumes)** `(Team Members)`
+:octocat: **[Organization & Resumes](Resumes)**
   * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
   * [Canberk Aslan](Resumes/)
   * [Ishak Arslan](Resumes/)
