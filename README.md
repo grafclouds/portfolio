@@ -8,8 +8,8 @@ Automating IT operations with DevOps, Securing Infrastrucures!
     * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Docker / Kubernetes / Swarm](#cloud-docker--kubernetes--swarm)
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
-  * [Devops](#octocat-devops)
-  * [Cyber Security](#lock-cyber-security)
+  * **[Devops](#octocat-devops)**
+  * **[Cyber Security](#lock-cyber-security)**
   
 :mortar_board: **[Training](Trainings.md)**
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
