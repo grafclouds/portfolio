@@ -2,6 +2,7 @@
 Graf-Clouds is helping customers to complete cloud projects with bringing multi-vendor solutions **AWS** (Amazon Web Services), Microsoft **Azure**, GC (**Google Cloud**), VMC (**VMware Cloud**) and OVH. 
 Automating IT operations with **DevOps**, Securing Infrastrucures!
 
+---
 🚀 **[What We Do?](#what-we-do)**
   * [Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
