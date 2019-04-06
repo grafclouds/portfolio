@@ -27,17 +27,16 @@ Automating IT operations with DevOps, Securing Infrastrucures!
 ## What We Do?
 #### :cloud: Cloud Consultancy _(AWS, Azure, Google Cloud, RackSpace, BlueOcean, OVH)_
 * **Lift & Shift to the Cloud**
-    * Migrate Legacy Applications
-    * Move Onprem to Cloud (Design --> Run)
+    * Migrate Legacy Applications to Cloud
     * Manage Cloud Components, Load Balancers, DNS, Avalibity Zones
     * Make Up & Running
     * Schedule Backups, Disaster Recovery, Multi-Availability-Zone
 * **Cloud Optimisation**
     * Traffic and Campain Management, AutoScale, Capacity Management
-    * Performance Analysis
+    * Performance Analysis, Fix Unused, Merge to Single Machine
     * Convert On-demand to Reserved Instances, Forecast Follow
     * Spot Management (Instance Bidding)
-    * Reduce Cost, Advisories
+    * Cost Analysis, Cost Reduce
 * **Cloud Automation**
     * Ansible
     * Puppet
