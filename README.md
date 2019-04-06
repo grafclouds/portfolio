@@ -4,7 +4,7 @@ Automating IT operations with DevOps, Securing Infrastrucures!
 
 ---
 🚀 **[What We Do?](#what-we-do)**
-  * [Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
+  * **[Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)**
     * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
     * [Docker / Kubernetes / Swarm](#cloud-docker--kubernetes--swarm)
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
