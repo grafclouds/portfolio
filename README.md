@@ -62,7 +62,6 @@ Automating IT operations with DevOps, Securing Infrastrucures!
     * Healt Check to Hypervisors
     * Disaster Recovery (DR to Onperm, DR to Cloud)
     * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
----
 
 #### :cloud: Docker / Kubernetes / Swarm
 * Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
