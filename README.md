@@ -69,7 +69,6 @@ Automating IT operations with DevOps, Securing Infrastrucures!
 * POD / Node / Deployment Management
 * Persist Data Management
 * Kubernetes Monitoring and Logging
----
 
 #### :circus_tent: Site Reliability Engineering
 * **Microsoft Servers**
