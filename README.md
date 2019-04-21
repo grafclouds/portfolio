@@ -8,7 +8,7 @@
     * [Serverless, Docker / Kubernetes / Swarm](#cloud-serverless-docker--kubernetes--swarm)
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
   * **[DevOps](#octocat-devops)**
-  * **[SecOps & Cyber Security](#lock-cyber-security)**
+  * **[SecOps & Cyber Security](#secops--cyber-security)**
   
 :mortar_board: **[Training](Trainings.md)**
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
