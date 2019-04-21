@@ -169,3 +169,10 @@ Are you read to relocating to the cloud without pain and pay less?
 
 ----
 `⌘ Publication Date: Nov 2018` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
+
+       ___            __     ___ _                 _     
+      / _ \_ __ __ _ / _|   / __\ | ___  _   _  __| |___ 
+     / /_\/ '__/ _` | |_   / /  | |/ _ \| | | |/ _` / __|
+    / /_\\| | | (_| |  _| / /___| | (_) | |_| | (_| \__ \
+    \____/|_|  \__,_|_|   \____/|_|\___/ \__,_|\__,_|___/
+ 
