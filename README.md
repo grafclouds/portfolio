@@ -32,9 +32,10 @@ Graf Clouds Team:
   * [Ishak Arslan](Resumes/)
 
 ## What We Do?
-#### :cloud: Cloud Consultancy _(AWS, Azure, Google Cloud, RackSpace, BlueOcean, OVH)_
+#### :cloud: Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
+Are you read to relocating to the cloud without pain and pay less? 
 * **Lift & Shift to the Cloud**
-    * Migrate Legacy Applications to Cloud
+    * Migrate Legacy Applications / Infrastuctures to Cloud
     * Manage Cloud Components, Load Balancers, DNS, Avalibity Zones
     * Make Up & Running
     * Schedule Backups, Disaster Recovery, Multi-Availability-Zone
