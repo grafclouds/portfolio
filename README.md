@@ -35,10 +35,10 @@ Graf Clouds Team:
 #### :cloud: Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
 Are you read to relocating to the cloud without pain and pay less? 
 * **Lift & Shift to the Cloud**
+    * Cloud Modeling (IaaS, PaaS, SaaS)
     * Migrate Legacy Applications / Infrastuctures to Cloud
-    * Manage Cloud Components, Load Balancers, DNS, Avalibity Zones
-    * Make Up & Running
-    * Schedule Backups, Disaster Recovery, Multi-Availability-Zone
+    * Manage Cloud Components, Virtual Networks
+    * Backup on Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
 * **Cloud Optimisation**
     * Traffic and Campain Management, AutoScale, Capacity Management
     * Performance Analysis, Fix Unused, Merge to Single Machine
@@ -46,24 +46,16 @@ Are you read to relocating to the cloud without pain and pay less?
     * Spot Management (Instance Bidding)
     * Cost Analysis, Cost Reduce
 * **Cloud Automation**
-    * Ansible
-    * Puppet
-    * Chef
-    * Saltstack
-    * Terraform
+    * Infrastructe as a Code (Ready for GitOps)
+    * Cloud Automation with Ansible, Chef, Saltstack, Terraform
+    * Auto Scale, Auto Destroy, Auto Deploy
 * **Cloud Security**
     * Hiding the Cloud (Akamai, CloudFlare)
-    * Security Rules Checks
-    * Traffic Seperationg with Content Distribution (CDN)
-    * GeoLocation Restrictions
-    * WAF Deployment
+    * Security Rules Checks, BPA
+    * Traffic Seperation with Content Distribution (CDN)
+    * GeoLocation Restrictions (GRPR Compliances)
+    * Advanged Securing with WAF 
     * DOS Protection
-* **Serverless _(Docker, CloudFoundry)_**
-    * Container Based Deployment
-    * Convert Legacy Apllications to Micro Services
-    * Create Docker Images, DTR, ACR
-    * Deploy Kubernetes, Swarm Clusters, Mesos
-    * Create Helm Charts
 * **Virtualization & Storages _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
     * Deploy Hybrid Cloud (OnPrem-Public)
     * Design & Deploy Virtual Infrastructure, Datastores
@@ -71,12 +63,17 @@ Are you read to relocating to the cloud without pain and pay less?
     * Disaster Recovery (DR to Onperm, DR to Cloud)
     * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
 
-#### :cloud: Docker / Kubernetes / Swarm
+#### :cloud: Serverless _(Docker / Kubernetes / Swarm)_
 * Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
+* Kubernetes on AWS, Azure, Google Cloud
 * Ingress Traffic Management
 * POD / Node / Deployment Management
 * Persist Data Management
 * Kubernetes Monitoring and Logging
+* Convert Legacy Aplications to Micro Services
+* Container Based Deployment
+* Create Helm Charts
+* DTR, EKS Management
 
 #### :circus_tent: Site Reliability Engineering
 * **Microsoft Servers**
