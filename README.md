@@ -15,8 +15,8 @@ Graf Clouds Team:
     * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)
     * [Serverless, Docker / Kubernetes / Swarm](#cloud-serverless-docker--kubernetes--swarm)
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
-  * **[Devops](#octocat-devops)**
-  * **[Cyber Security](#lock-cyber-security)**
+  * **[DevOps](#octocat-devops)**
+  * **[SecOps & Cyber Security](#lock-cyber-security)**
   
 :mortar_board: **[Training](Trainings.md)**
   * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
@@ -32,7 +32,7 @@ Graf Clouds Team:
   * [Ishak Arslan](Resumes/)
 
 ## What We Do?
-#### :cloud: Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
+#### ☁️ Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
 Are you read to relocating to the cloud without pain and pay less? 
 * **Lift & Shift to the Cloud**
     * Cloud Modeling (IaaS, PaaS, SaaS)
@@ -128,7 +128,7 @@ Are you read to relocating to the cloud without pain and pay less?
     * Slack
 ---
 
-#### :lock: Cyber Security
+#### 🛡️ Cyber Security
 * **Firewalls, IPS, Load Balances, WAF**
   * PFSense
   * Juniper
