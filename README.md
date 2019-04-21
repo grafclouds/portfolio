@@ -19,17 +19,8 @@
   * [Securing the Cloud](Trainings.md#securing-the-cloud)
 
 :octocat: **[Organization & Resumes](#octocat-organization--resumes)**
-  * [Ali Ozan Tunc](#octocat-organization--resumes)
-  * [Serdar Sarioglu](#octocat-organization--resumes)
-  * [Canberk Aslan](#octocat-organization--resumes)
-  * [Ishak Arslan](#octocat-organization--resumes)
-  * [Fatih Sarioglu](#octocat-organization--resumes)
-  * [Murat Tanirkan](#octocat-organization--resumes)
   
 📋 **[References](#-references)**
-  * [Keepnet](#-references)
-  * [Monotect](#-references)
-  * [WettArena ](#-references)
    
 
 ## What We Do?
@@ -174,5 +165,7 @@ Are you read to relocating to the cloud without pain and pay less?
 - [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management`
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
 - [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
+
+
 ----
 `⌘ Publication Date: Nov 2018` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
