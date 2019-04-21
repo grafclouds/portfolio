@@ -18,10 +18,13 @@
   * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
   * [Securing the Cloud](Trainings.md#securing-the-cloud)
 
-:octocat: **[Organization & Resumes](Resumes)**
+:octocat: **[Organization & Resumes](#octocat-organization--resumes)**
+  * [Ali Ozan Tunc](Resumes/)
   * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
   * [Canberk Aslan](Resumes/)
   * [Ishak Arslan](Resumes/)
+  * [Fatih Sarioglu](Resumes/)
+  * [Murat Tanirkan](Resumes/)
   
 📋 **[References](#-references)**
 
