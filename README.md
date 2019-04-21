@@ -30,6 +30,8 @@ Graf Clouds Team:
   * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
   * [Canberk Aslan](Resumes/)
   * [Ishak Arslan](Resumes/)
+  
+💯 **[References](References)**
 
 ## What We Do?
 #### ☁️ Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
@@ -128,7 +130,7 @@ Are you read to relocating to the cloud without pain and pay less?
     * Slack
 ---
 
-#### 🛡️ Cyber Security
+#### 🚔 SecOps & Cyber Security
 * **Firewalls, IPS, Load Balances, WAF**
   * PFSense
   * Juniper
@@ -158,5 +160,7 @@ Are you read to relocating to the cloud without pain and pay less?
 * Pentesting
 * Best Practice Analysis
 
+#### References
+- [x] Keepnet `Migrate from Azure to AWS, Cloud Infra Management`
 ----
 `⌘ Publication Date: Nov 2018` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
