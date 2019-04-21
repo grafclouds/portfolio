@@ -31,7 +31,7 @@ Graf Clouds Team:
   * [Canberk Aslan](Resumes/)
   * [Ishak Arslan](Resumes/)
   
-📋 **[References](#references)**
+📋 **[References](#-references)**
 
 ## What We Do?
 #### ☁️ Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
