@@ -19,12 +19,12 @@
   * [Securing the Cloud](Trainings.md#securing-the-cloud)
 
 :octocat: **[Organization & Resumes](#octocat-organization--resumes)**
-  * [Ali Ozan Tunc](Resumes/)
-  * [Serdar Sarioglu](Resumes/Serdar-Sarioglu.md)
-  * [Canberk Aslan](Resumes/)
-  * [Ishak Arslan](Resumes/)
-  * [Fatih Sarioglu](Resumes/)
-  * [Murat Tanirkan](Resumes/)
+  * [Ali Ozan Tunc](#octocat-organization--resumes)
+  * [Serdar Sarioglu](#octocat-organization--resumes)
+  * [Canberk Aslan](#octocat-organization--resumes)
+  * [Ishak Arslan](#octocat-organization--resumes)
+  * [Fatih Sarioglu](#octocat-organization--resumes)
+  * [Murat Tanirkan](#octocat-organization--resumes)
   
 📋 **[References](#-references)**
 
@@ -158,12 +158,12 @@ Are you read to relocating to the cloud without pain and pay less?
 
 
 #### :octocat: Organization & Resumes
-- [x] Ali Ozan Tunc (UAE): `Founder & Sales Manager`
-- [x] Serdar Sarioglu (TR - EU): `Senior Site Reliability Engineer, Security Expert`
-- [x] Canberk Aslan (TR): `Site Reliability Engineer, DevOps Expert`
-- [x] Fatih Sarioglu (TR): `Junior Cloud Expert`
-- [x] Ishak Arslan (TR): `SecOps Expert`
-- [x] Murat Tanirkan (DE): `Cloud Engineer (AWS)`
+- [x] [Ali Ozan Tunc (UAE)](Resumes): `Founder & Sales Manager`
+- [x] [Serdar Sarioglu (TR - EU)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
+- [x] [Canberk Aslan (TR)](Resumes): `Site Reliability Engineer, DevOps Expert`
+- [x] [Fatih Sarioglu (TR)](Resumes): `Junior Cloud Expert`
+- [x] [Ishak Arslan (TR)](Resumes): `SecOps Expert`
+- [x] [Murat Tanirkan (DE)](Resumes): `Cloud Engineer (AWS)`
 ---
 
 #### 📋 References
