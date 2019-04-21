@@ -1,6 +1,13 @@
 ## 🌟Graf Clouds
-**Graf-Clouds** an Engineering Company, makes IT operations simple. Working on Cloud Lifting and Shifting, DevOps & SecOps.
+**Graf-Clouds** an Engineering Company, makes IT operations simple. Working on Cloud Lifting and Shifting, Site Reliability, DevOps & SecOps.
+
 Graf Clouds Team: 
+- [x] Ali Ozan Tunc (UAE): Founder & Sales Manager
+- [x] Serdar Sarioglu (TR - EU): Senior Site Reliability Engineer, Security Expert
+- [x] Canberk Aslan (TR): Site Reliability Engineer, DevOps Expert
+- [x] Fatih Sarioglu (TR): Junior Cloud Expert
+- [x] Ishak Arslan (TR): SecOps Expert
+- [x] Murat Tanirkan (DE): Cloud Engineer (AWS)
 
 ---
 🚀 **[What We Do?](#what-we-do)**
