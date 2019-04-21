@@ -161,6 +161,8 @@ Are you read to relocating to the cloud without pain and pay less?
 * Best Practice Analysis
 
 #### 📋 References
-- [x] [Keepnet](keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management`
+- [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management`
+- [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
+- [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
 ----
 `⌘ Publication Date: Nov 2018` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
