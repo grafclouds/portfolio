@@ -11,9 +11,9 @@ Graf Clouds Team:
 
 ---
 🚀 **[What We Do?](#what-we-do)**
-  * **[Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)**
-    * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-rackspace-blueocean-ovh)
-    * [Docker / Kubernetes / Swarm](#cloud-docker--kubernetes--swarm)
+  * **[Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)**
+    * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)
+    * [Serverless, Docker / Kubernetes / Swarm](#cloud-serverless-docker--kubernetes--swarm)
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
   * **[Devops](#octocat-devops)**
   * **[Cyber Security](#lock-cyber-security)**
