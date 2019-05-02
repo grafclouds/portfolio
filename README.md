@@ -3,8 +3,8 @@
 
 ---
 🚀 **[What We Do?](#what-we-do)**
-  * **[Cloud Operations](#cloud-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)**
-    * [Cloud Consultancy](#cloud-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)
+  * **[Cloud Operations](#cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)**
+    * [Cloud Consultancy](#cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)
     * [Serverless, Docker / Kubernetes / Swarm](#cloud-serverless-docker--kubernetes--swarm)
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
   * **[DevOps](#octocat-devops)**
