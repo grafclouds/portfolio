@@ -153,7 +153,7 @@ Are you read to relocating to the cloud without pain and pay less?
 
 
 #### :octocat: Organization & Resumes
-- [x] [Ali Ozan Tunc (UAE)](Resumes): `Founder & Sales Manager`
+- [x] [Ali Ozan Tunc (UAE)](Resumes): `Founder & General Manager`
 - [x] [Serdar Sarioglu (TR - EU)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
 - [x] [Canberk Aslan (TR)](Resumes): `Site Reliability Engineer, DevOps Expert`
 - [x] [Fatih Sarioglu (TR)](Resumes): `Junior Cloud Expert`
