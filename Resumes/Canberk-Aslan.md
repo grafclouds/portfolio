@@ -62,13 +62,6 @@ Doing POC s and researching new Technologies or Tools. Understanding the culture
 * **Patent Award(Turkcell )**,  Automation processed for Auditing IT Operations
 * **CXO Award (Turkcell)**, C- Level Award for SDLC ROIs
 
-#### Associations
-* **Member**, ISACA – Information Systems Audit and Control Association
-* **Member**, ISC² – International Information System Security Certification Consortium
-* **Member**, Institute of Electrical and Electronics Engineers, IEEE
-* **Member**, Turkey Amateur Radio Association – Type A License Holder (TA2NQN)
-* **Member**, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
-
 ---
 #### Skill Keywords
 Cloud, DevOps, SecOps, Project Management, Audit, Security, Amazon Web Services, Azure, Google Cloud, Kubernetes, Docker, Ansible, Jenkins, ACSA,, Agile, Scrum, CI/CD, Distributed Systems
