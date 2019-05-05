@@ -21,8 +21,10 @@
 :octocat: **[Organization & Resumes](#octocat-organization--resumes)**
   
 📋 **[References](#-references)**
+Our References and Completed Projects
 
 🗿 **[Partners](#-partners)**
+Our Partners
    
 
 ## What We Do?
