@@ -156,7 +156,7 @@ Are you read to relocating to the cloud without pain and pay less?
 - [x] [Ali Ozan Tunc (UAE)](Resumes): `Founder & General Manager`
 - [x] [Serdar Sarioglu (TR - EU)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
 - [x] [Canberk Aslan (TR)](Resumes): `Site Reliability Engineer, DevOps Expert`
-- [x] [Fatih Sarioglu (TR)](Resumes): `Junior Cloud Expert`
+- [x] [Fatih Sarioglu (TR)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert`
 - [x] [Ishak Arslan (TR)](Resumes): `SecOps Expert`
 - [x] [Murat Tanirkan (DE)](Resumes): `Cloud Engineer (AWS)`
 ---
