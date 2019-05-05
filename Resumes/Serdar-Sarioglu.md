@@ -87,4 +87,4 @@ Responsibe for Oil Refinery Infrastructure and Cyber Security Team
 Cloud, DevOps, SecOps, Project Management, Audit, Security, Amazon Web Services, Azure, Google Cloud, Kubernetes, Docker, Ansible, Jenkins, ACSA, CCSP, MCSE, CEH, VCP, CCNA, Agile, Scrum, CI/CD, Distributed Systems
 
 ---
-`⌘  Publication Date: Nov 2018`
+`⌘  Last Update: Nov 2018`

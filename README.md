@@ -1,5 +1,5 @@
 ## 🌟Graf Clouds Portfolio
-**Graf-Clouds** an Engineering Company, makes IT operations simple. Working on Cloud Lifting and Shifting, Site Reliability, DevOps & SecOps.
+**Graf-Clouds** is an Engineering Company, making IT operations simple on Cloud with Lifting and Shifting projects Site Reliability, DevOps & SecOps for **6 years**.
 
 ---
 🚀 **[What We Do?](#what-we-do)**
@@ -31,33 +31,33 @@ Our Partners
 
 ## What We Do?
 #### ☁️ Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
-Are you read to relocating to the cloud without pain and pay less? 
+Are you ready to relocate to the cloud without pain and pay less? 
 * **Lift & Shift to the Cloud**
     * Cloud Modeling (IaaS, PaaS, SaaS)
-    * Migrate Legacy Applications / Infrastuctures to Cloud
+    * Migrate Legacy Applications / Infrastructure to Cloud
     * Manage Cloud Components, Virtual Networks
-    * Backup on Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
+    * Backup to Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
 * **Cloud Optimisation**
     * Traffic and Campain Management, AutoScale, Capacity Management
-    * Performance Analysis, Fix Unused, Merge to Single Machine
+    * Performance Analysis, Shrink to Grow
     * Convert On-demand to Reserved Instances, Forecast Follow
     * Spot Management (Instance Bidding)
-    * Cost Analysis, Cost Reduce
+    * Resource Analysis, Cost Reduce
 * **Cloud Automation**
-    * Infrastructe as a Code (Ready for GitOps)
+    * Infrastructure as a Code (GitOps)
     * Cloud Automation with Ansible, Chef, Saltstack, Terraform
     * Auto Scale, Auto Destroy, Auto Deploy
 * **Cloud Security**
     * Hiding the Cloud (Akamai, CloudFlare)
     * Security Rules Checks, BPA
-    * Traffic Seperation with Content Distribution (CDN)
+    * Traffic Separation with Content Distribution (CDN)
     * GeoLocation Restrictions (GRPR Compliances)
-    * Advanged Securing with WAF 
+    * Advanced Securing with WAF 
     * DOS Protection
-* **Virtualization & Storages _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
+* **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
     * Deploy Hybrid Cloud (OnPrem-Public)
     * Design & Deploy Virtual Infrastructure, Datastores
-    * Healt Check to Hypervisors
+    * Health Check to Hypervisors
     * Disaster Recovery (DR to Onperm, DR to Cloud)
     * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
 
@@ -83,13 +83,13 @@ Are you read to relocating to the cloud without pain and pay less?
     * Web Server Optimizations, BPA (IIS, Apache, Nginx)
     * Account Management - AAA (OpenLDAP, Atlassian Crowd)
     * Email (Zimbra, QMail, Exim)
-    * Database Management, HA, Clustering & Optimizations (MsSql, Mysql, MongoDB, PostgreSql)
+    * Database Management, HA, Clustering & Optimizations (MsSql, Mysql, MongoDB, PostgreSQL)
     * Caching and Performance Optimization (Redis, RabbitMQ)
     * Patch and Software Management (Spacewalk)
 * **Monitoring**
     * Proactive Response with Cloud (Uptrends & VictorOps)
     * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
-    * Application Monitoring (New Relic)
+    * Application Perfomance Monitoring (New Relic)
 * **Big Data**
     * HDFS, HDF, Kafka, Spark, Storm, MapReduce, Hive
     * ELK Stack
@@ -135,7 +135,7 @@ Are you read to relocating to the cloud without pain and pay less?
   * Nginx/Nginx Plus
   * Big IP, Netscaler
 * **Email Security**
-  * Spamassasin
+  * Spamassassin
   * Iron Port
 * **APT**
   * FireEye
@@ -161,7 +161,7 @@ Are you read to relocating to the cloud without pain and pay less?
 #### :octocat: Organization & Resumes
 - [x] [Ali Ozan Tunc (UAE)](Resumes): `Founder & General Manager`
 - [x] [Serdar Sarioglu (TR - EU)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
-- [x] [Canberk Aslan (TR)](Resumes): `Site Reliability Engineer, DevOps Expert`
+- [x] [Canberk Aslan (TR)](Resumes/Canberk-Aslan.md): `Site Reliability Engineer, DevOps Expert`
 - [x] [Fatih Sarioglu (TR)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert`
 - [x] [Ishak Arslan (TR)](Resumes): `SecOps Expert`
 - [x] [Murat Tanirkan (DE)](Resumes): `Cloud Engineer (AWS)`
@@ -171,13 +171,14 @@ Are you read to relocating to the cloud without pain and pay less?
 - [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management`
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
 - [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
+[x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment`
 
 #### 🗿 Partners
 - [x] [Monotect](https://monotect.com) `Hybris Integrator`
 - [x] [Supereon](https://supereon.com/) `Networking Company (London)`
 
 ----
-`⌘ Publication Date: Nov 2018` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
+`⌘ Last Update : 5 May 2019` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
 
                         ##         .
                   ## ## ##        ==

@@ -71,3 +71,6 @@ Cloud, DevOps, SecOps, Project Management, Audit, Security, Amazon Web Services,
 **Cloud & Infra**: Amazon, Microsoft, Google, SAP, VMware, Citrix, EMC, VCE, Cisco
 **Security**: Juniper, Symantec, Websense, Tenable, RSA
 **Orchestration**: CloudBees, UC4, Automic, HP, Microfocus, Microsoft, CA Technologies
+
+---
+`⌘  Last Update: Jan 2019`

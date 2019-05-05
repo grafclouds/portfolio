@@ -25,4 +25,4 @@ Responsible for creating virtual machines with their infrastructures and adjusti
 Cloud, Project Management, Audit, Security, Amazon Web Services, Azure, Google Cloud, Kubernetes, Docker, Ansible, Jenkins, ACSA, CCSP, MCSE, CEH, VCP, CCNA, Agile, Scrum, CI/CD, Distributed Systems
 
 ---
-`⌘  Publication Date: Nov 2018`
+`⌘  Last Update: Nov 2018`
