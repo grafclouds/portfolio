@@ -171,10 +171,11 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
 - [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
 - [x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment`
+---
 
 #### 🗿 Partners
 - [x] [Monotect](https://monotect.com) `Hybris Integrator`
-- [x] [Supereon](https://supereon.com/) `Networking Company (London)`
+- [x] [Supereon](https://supereon.co.uk/) `Networking Company (London)`
 
 ----
 `⌘ Last Update : 5 May 2019` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
