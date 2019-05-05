@@ -9,14 +9,13 @@
     * [Site Reliability Engineering](#circus_tent-site-reliability-engineering)
   * **[DevOps](#octocat-devops)**
   * **[SecOps & Cyber Security](#secops--cyber-security)**
-  
-:mortar_board: **[Training](Trainings.md)**
-  * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
-  * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
-  * [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
-  * [DevOps on the Cloud](Trainings.md#devops-on-the-cloud)
-  * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
-  * [Securing the Cloud](Trainings.md#securing-the-cloud)
+  * **[Training](Trainings.md)**
+    * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
+    * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
+    * [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
+    * [DevOps on the Cloud](Trainings.md#devops-on-the-cloud)
+    * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
+    * [Securing the Cloud](Trainings.md#securing-the-cloud)
 
 :octocat: **[Organization & Resumes](#octocat-organization--resumes)**
   
@@ -159,7 +158,7 @@ Are you ready to relocate to the cloud without pain and pay less?
 
 
 #### :octocat: Organization & Resumes
-- [x] [Ali Ozan Tunc (UAE)](Resumes): `Founder & General Manager`
+- [x] [Ali Ozan Tunc (Dubai)](Resumes): `Founder & General Manager`
 - [x] [Serdar Sarioglu (TR - EU)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
 - [x] [Canberk Aslan (TR)](Resumes/Canberk-Aslan.md): `Site Reliability Engineer, DevOps Expert`
 - [x] [Fatih Sarioglu (TR)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert`
@@ -171,7 +170,7 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management`
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
 - [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
-[x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment`
+- [x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment`
 
 #### 🗿 Partners
 - [x] [Monotect](https://monotect.com) `Hybris Integrator`
