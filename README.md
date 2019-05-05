@@ -22,7 +22,7 @@
   
 📋 **[References](#-references)**
 
-🗿 **[Partners](#-references)**
+🗿 **[Partners](#-partners)**
    
 
 ## What We Do?
