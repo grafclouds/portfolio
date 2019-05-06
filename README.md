@@ -171,8 +171,10 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
 - [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
 - [x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment`
-- [x] [Roksit](http://roksit.com) `Domain History Project`
-- [x] [Tubitak Bilgem] (http://tubitak.gov.tr) `b3lab opensource and secops consultancy`
+- [x] [Roksit](http://roksit.com) `Domain DNS History Project`
+- [x] [Tubitak Bilgem](http://tubitak.gov.tr) `b3lab OpenSource and Secops Consultancy`
+- [x] [BaşakŞehir Belediyesi](http://basaksehir.bel.tr) `SIEM integration, Hardening`
+- [x] [Yıldız Holding](http://yildizholding.com.tr) `SIEM integration`
 ---
 
 #### 🗿 Partners
