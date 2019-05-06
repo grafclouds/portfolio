@@ -167,14 +167,15 @@ Are you ready to relocate to the cloud without pain and pay less?
 ---
 
 #### 📋 References
-- [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management`
+- [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management, Incoming Over 40K Clients`
+- [x] [Wext](http://wext.com) `AWS EKS and Kubernets Projcet, Manage Ingress ove GitOps`
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
-- [x] [WettArena](https://wettarena.com/) `Whole infra setup on AWS, 100 Node VPC and VPN Deploy`
-- [x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment`
-- [x] [Roksit](http://roksit.com) `Domain DNS History Project`
-- [x] [Tubitak Bilgem](http://tubitak.gov.tr) `b3lab OpenSource and Secops Consultancy`
-- [x] [BaşakŞehir Belediyesi](http://basaksehir.bel.tr) `SIEM integration, Hardening`
-- [x] [Yıldız Holding](http://yildizholding.com.tr) `SIEM integration`
+- [x] [WettArena](https://wettarena.com/) `AWS Infra Design and Setup, 100 Node End Tunnels on VPC`
+- [x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment, Fully Automatic Deployments and CI/CD Tests`
+- [x] [Roksit](http://roksit.com) `Domain DNS History Project, DNS Based URL Filtering with Big Data`
+- [x] [Tubitak Bilgem](http://tubitak.gov.tr) `B3lab OpenSource and Secops Project`
+- [x] [BaşakŞehir Belediyesi](http://basaksehir.bel.tr) `SIEM Integration & Hardening`
+- [x] [Yıldız Holding](http://yildizholding.com.tr) `SIEM Integration`
 ---
 
 #### 🗿 Partners
