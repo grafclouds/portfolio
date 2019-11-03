@@ -160,19 +160,19 @@ Are you ready to relocate to the cloud without pain and pay less?
 #### :octocat: Organization & Resumes
 - [x] [Ali Ozan Tunc (Dubai)](Resumes): `Founder & General Manager`
 - [x] [Omer Telli (Turkey)](Resumes): `Co-Founder & Country Manager`
-- [x] [Serdar Sarioglu (Turkey & Germany)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
-- [x] [Canberk Aslan (Turkey)](Resumes/Canberk-Aslan.md): `Site Reliability Engineer, DevOps Expert`
-- [x] [Fatih Sarioglu (Turkey)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert`
-- [x] [Ishak Arslan (Turkey)](Resumes): `SecOps Expert`
-- [x] [Murat Tanirkan (Germany)](Resumes): `Cloud Engineer (AWS)`
+- [x] [Serdar Sarioglu (Turkey & Germany)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert, Architect`
+- [x] [Canberk Aslan (Turkey)](Resumes/Canberk-Aslan.md): `Senior DevOps Expert, Design & L2 Support`
+- [x] [Fatih Sarioglu (Turkey)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert, L1 Support`
+- [x] [Ishak Arslan (Turkey)](Resumes): `SecOps Expert, L2 Support`
+- [x] [Murat Tanirkan (Germany)](Resumes): `Senior Cloud Engineer, L2 Support`
+- [x] [Mustafa Cifci (Turkey)](Resumes): `Senior FullStack Software Developer`
 ---
 
-#### 📋 References
+#### 📋 (Some!) References
 - [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management, Incoming Over 40K Clients`
-- [x] [Wext](http://wext.com) `AWS EKS and Kubernets Projcet, Manage Ingress ove GitOps`
+- [x] [Wext](http://wext.com) `AWS EKS and Kubernets Projcet, Infra as a Code (gitOps)`
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
 - [x] [WettArena](https://wettarena.com/) `AWS Infra Design and Setup, 100 Node End Tunnels on VPC`
-- [x] [Keepnet](http://keepnetlabs.com) `Azure DevOps Deployment, Fully Automatic Deployments and CI/CD Tests`
 - [x] [Roksit](http://roksit.com) `Domain DNS History Project, DNS Based URL Filtering with Big Data`
 - [x] [Tubitak Bilgem](http://tubitak.gov.tr) `B3lab OpenSource and Secops Project`
 - [x] [BaşakŞehir Belediyesi](http://basaksehir.bel.tr) `SIEM Integration & Hardening`
@@ -180,12 +180,12 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Harput Holding](http://harputholding.com.tr) `Infra Redesign, Devops Operations, Cloud Migration, Secops Operations`
 ---
 
-#### 🗿 Partners
+#### 🗿 Technology Partners
 - [x] [Monotect](https://monotect.com) `Hybris Integrator`
-- [x] [Supereon](https://supereon.co.uk/) `Networking Company (London)`
+- [x] [Supereon](https://supereon.co.uk/) `Networking Company (United Kingdom)`
 
 ----
-`⌘ Last Update : 5 May 2019` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
+`⌘ Last Update : 27 Sep 2019` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form.
 
                         ##         .
                   ## ## ##        ==
@@ -196,4 +196,5 @@ Are you ready to relocate to the cloud without pain and pay less?
              \    \         __/
               \____\_______/
                 Graf Clouds
+                 As-Simple
 
