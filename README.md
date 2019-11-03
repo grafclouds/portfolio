@@ -1,5 +1,5 @@
 ## 🌟Graf Clouds Portfolio
-**Graf-Clouds** is an Engineering Company, making IT operations simple on Cloud with Lifting and Shifting projects Site Reliability, DevOps & SecOps for **6 years**.
+**Graf-Clouds** is an IT Engineering Company, making IT operations simple for **6 years**...
 
 ---
 🚀 **[What We Do?](#what-we-do)**
