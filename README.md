@@ -176,6 +176,7 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Tubitak Bilgem](http://tubitak.gov.tr) `B3lab OpenSource and Secops Project`
 - [x] [BaşakŞehir Belediyesi](http://basaksehir.bel.tr) `SIEM Integration & Hardening`
 - [x] [Yıldız Holding](http://yildizholding.com.tr) `SIEM Integration`
+- [x] [Harput Holding](http://harputholding.com.tr) `Infra Redesign, Devops Operations, Cloud Migration, Secops Operations`
 ---
 
 #### 🗿 Partners
