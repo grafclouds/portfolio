@@ -159,11 +159,12 @@ Are you ready to relocate to the cloud without pain and pay less?
 
 #### :octocat: Organization & Resumes
 - [x] [Ali Ozan Tunc (Dubai)](Resumes): `Founder & General Manager`
-- [x] [Serdar Sarioglu (TR - EU)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
-- [x] [Canberk Aslan (TR)](Resumes/Canberk-Aslan.md): `Site Reliability Engineer, DevOps Expert`
-- [x] [Fatih Sarioglu (TR)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert`
-- [x] [Ishak Arslan (TR)](Resumes): `SecOps Expert`
-- [x] [Murat Tanirkan (DE)](Resumes): `Cloud Engineer (AWS)`
+- [x] [Omer Telli (Turkey)](Resumes): `Co-Founder & Country Manager`
+- [x] [Serdar Sarioglu (Turkey & Germany)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert`
+- [x] [Canberk Aslan (Turkey)](Resumes/Canberk-Aslan.md): `Site Reliability Engineer, DevOps Expert`
+- [x] [Fatih Sarioglu (Turkey)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert`
+- [x] [Ishak Arslan (Turkey)](Resumes): `SecOps Expert`
+- [x] [Murat Tanirkan (Germany)](Resumes): `Cloud Engineer (AWS)`
 ---
 
 #### 📋 References
