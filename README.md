@@ -202,9 +202,8 @@ Automation = Power, we are ready to automate all your IT Processes!
 ----
 
 #### 🏠 Address
-Head Office (Turkey): `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
-
-Branch Office (Germany): `Schluchseestraße 67 13469 - Berlin`
+- [x] Head Office (Turkey): `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
+- [x] Branch Office (Germany): `Schluchseestraße 67 13469 - Berlin`
 
 
 
