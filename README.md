@@ -4,7 +4,7 @@
 📟On Call Phones: 
  * `+90 542 785 2900 [Turkey-Sales]`
  * `+90 541 831 9252 [Turkey-Technical]`
- * `+49 176 23703301 [Europe-Technical]
+ * `+49 176 23703301 [Europe-Technical]`
 
 ---
 🚀 **[What We Do?](#what-we-do)**
