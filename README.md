@@ -70,6 +70,7 @@ Are you ready to relocate to the cloud without pain and pay less?
 ---
 
 #### :octocat: Devops
+Automation = Power, we are ready to automate all your IT Processes!
 * **Serverless _(Docker / Kubernetes / Swarm)_**
     * Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
     * Kubernetes on AWS, Azure, Google Cloud
