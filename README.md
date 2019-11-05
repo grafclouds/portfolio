@@ -28,7 +28,7 @@ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WN
 
 Our References and Completed Projects
 
-🗿 **[Partners](#-partners)**
+🗿 **[Partners](#-technology-partners)**
 
 Our Partners
    
