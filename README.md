@@ -198,8 +198,7 @@ Automation = Power, we are ready to automate all your IT Processes!
 #### 🗿 Technology Partners
 - [x] [Monotect](https://monotect.com) `Hybris Integrator`
 - [x] [Supereon](https://supereon.co.uk/) `Networking Company (United Kingdom)`
-
-----
+---
 
 #### 🏠 Address
 - [x] Head Office (Turkey): `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
