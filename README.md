@@ -60,34 +60,6 @@ Are you ready to relocate to the cloud without pain and pay less?
     * Advanced Securing with Cloud WAF
     * Certificate Management, SSL Offload on Load Balancers
     * DOS Protection
-
-#### :circus_tent: Site Reliability Engineering
-* **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
-    * Deploy Hybrid Cloud (OnPrem-Public)
-    * Design & Deploy Virtual Infrastructure, Datastores
-    * Health Check to Hypervisors
-    * Disaster Recovery (DR to Onperm, DR to Cloud)
-    * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
-* **Microsoft Servers**
-    * Active Directory (BPA, Upgrade, Troubleshoot, GPO)
-    * Messaging Collaborations (Exchange, Office 365)
-    * Skype For Bussiness (VoIP Integrations, BPA, Federations)
-    * Patch and Software Management (WSUS, SCCM)
-* **Open Source Solutions _(Ubuntu, Centos, RHEL, SLES, *BSD)_**
-    * Web Server Optimizations, BPA (IIS, Apache, Nginx)
-    * Account Management - AAA (OpenLDAP, Atlassian Crowd)
-    * Email (Zimbra, QMail, Exim)
-    * Database Management, HA, Clustering & Optimizations (MsSql, Mysql, MongoDB, PostgreSQL)
-    * Caching and Performance Optimization (Redis, RabbitMQ)
-    * Patch and Software Management (Spacewalk)
-* **Monitoring**
-    * Proactive Response with Cloud (Uptrends & VictorOps)
-    * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
-    * Application Perfomance Monitoring (New Relic)
-* **Big Data**
-    * HDFS, HDF, Kafka, Spark, Storm, MapReduce, Hive
-    * ELK Stack
-    * AWS EMR
 ---
 
 #### :octocat: Devops
@@ -162,6 +134,34 @@ Are you ready to relocate to the cloud without pain and pay less?
 * Best Practice Analysis
 ---
 
+#### :circus_tent: Site Reliability Engineering
+* **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
+    * Deploy Hybrid Cloud (OnPrem-Public)
+    * Design & Deploy Virtual Infrastructure, Datastores
+    * Health Check to Hypervisors
+    * Disaster Recovery (DR to Onperm, DR to Cloud)
+    * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
+* **Microsoft Servers**
+    * Active Directory (BPA, Upgrade, Troubleshoot, GPO)
+    * Messaging Collaborations (Exchange, Office 365)
+    * Skype For Bussiness (VoIP Integrations, BPA, Federations)
+    * Patch and Software Management (WSUS, SCCM)
+* **Open Source Solutions _(Ubuntu, Centos, RHEL, SLES, *BSD)_**
+    * Web Server Optimizations, BPA (IIS, Apache, Nginx)
+    * Account Management - AAA (OpenLDAP, Atlassian Crowd)
+    * Email (Zimbra, QMail, Exim)
+    * Database Management, HA, Clustering & Optimizations (MsSql, Mysql, MongoDB, PostgreSQL)
+    * Caching and Performance Optimization (Redis, RabbitMQ)
+    * Patch and Software Management (Spacewalk)
+* **Monitoring**
+    * Proactive Response with Cloud (Uptrends & VictorOps)
+    * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
+    * Application Perfomance Monitoring (New Relic)
+* **Big Data**
+    * HDFS, HDF, Kafka, Spark, Storm, MapReduce, Hive
+    * ELK Stack
+    * AWS EMR
+---
 
 #### :octocat: Organization & Resumes
 - [x] [Ali Ozan Tunc (Dubai)](Resumes): `Founder & General Manager`
