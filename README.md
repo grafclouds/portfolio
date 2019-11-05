@@ -194,11 +194,9 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Supereon](https://supereon.co.uk/) `Networking Company (United Kingdom)`
 
 ----
-`⌘ Last Update : 27 Sep 2019` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form. ✉️ info@grafclouds.com
+`⌘ Last Update : 27 Sep 2019` Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: info@grafclouds.com
 
-🏠Address:
-   * Head Office (Turkey): Halkali Mrz. Mh. Kucukcekmece | Istanbul
-   * Branch Office (Germany): Schluchseestraße 67 13469 | Berlin
+`Address:` Head Office (Turkey): Halkali Mrz. Mh. Kucukcekmece | Istanbul / Branch Office (Germany): Schluchseestraße 67 13469 | Berlin
   
 
 
