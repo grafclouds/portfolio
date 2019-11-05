@@ -12,7 +12,7 @@ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WN
 🚀 **[What We Do?](#what-we-do)**
   * **[Cloud's](#️-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-vmc-rackspace-blueocean-ovh)**
   * **[DevOps](#octocat-devops)**
-  * **[Site Reliability Engineering](#site-reliability)**
+  * **[Site Reliability Engineering](#circus_tent-site-reliability-engineering)**
   * **[SecOps & Cyber Security](#secops--cyber-security)**
   * **[Training](Trainings.md)**
     * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
@@ -83,20 +83,22 @@ Automation = Power, we are ready to automate all your IT Processes!
     * Create Helm Charts
     * DTR, EKS Management
 * **Repository Management**
-    * GitHub
+    * GitHub (Git Flow, Integration with DevOps Tools, Github Actions)
     * Bitbucket
-    * TFS
+    * TFS (Integration with Azure Devops)
 * **CI/CD & Pipelines**
     * Jenkins (Jenkins as a Service, Pipeline Design, Integrations)
     * Azure DevOps Tools (Manage Azure TFS and Azure Deployments)
     * Xebia (XlRelease, XlDeploy)
     * Atlassian Bamboo
+    * Automatic Deployments
 * **SDLC**
-    * SonarQube (Code Quality Scan)
-    * Artifactory (Jfrog)
+    * SonarQube Analysis (Code Quality Scan)
+    * Artifactory Management (Jfrog)
     * Code Coverity
     * Tinfoil (DAST Scans)
-    * Load Test
+    * Load Test / Unit Test
+    * Selenium Tests
 * **Automation**
     * UC4, Automic
     * HP Operation Orchestration
