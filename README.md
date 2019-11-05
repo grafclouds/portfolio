@@ -5,6 +5,8 @@
  * `+90 542 785 2900 [Turkey-Sales]`
  * `+90 541 831 9252 [Turkey-Technical]`
  * `+49 176 23703301 [Europe-Technical]`
+ 
+Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `info@grafclouds.com`
 
 ---
 🚀 **[What We Do?](#what-we-do)**
@@ -195,8 +197,6 @@ Are you ready to relocate to the cloud without pain and pay less?
 - [x] [Supereon](https://supereon.co.uk/) `Networking Company (United Kingdom)`
 
 ----
-Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `info@grafclouds.com`
-
 Head Office (Turkey): `Halkali Mrz. Mh. Kucukcekmece - Istanbul`, Branch Office (Germany): `Schluchseestraße 67 13469 - Berlin`
 
 
