@@ -1,17 +1,9 @@
 ## 🌟Graf Clouds Portfolio
 **Graf-Clouds** is an IT Engineering Company, making IT operations simple for **6 years**...
 
-**Contact Details:**
-
-📟 Phone: 
+📟On Call Phone: 
  * +90 542 785 2900 [Turkey]
  * +49 176 23703301 [Europe]
-
-✉️ Email: info@grafclouds.com
-
-🏠Address: 
- * Head Office (Turkey): Halkali Mrz. Mh. Kucukcekmece | Istanbul
- * Branch Office (Germany): Schluchseestraße 67 13469 | Berlin
 
 ---
 🚀 **[What We Do?](#what-we-do)**
