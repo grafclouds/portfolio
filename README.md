@@ -38,7 +38,7 @@ Are you ready to relocate to the cloud without pain and pay less?
     * Backup to Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
     * Vmware Cloud on AWS (VMC)
 * **Cloud Support (Amazon Web Services, Azure, Google Cloud)**
-* Support Cloud Components (Decrease Costs, Increase Stability)
+    * Support Cloud Components (Decrease Costs, Increase Stability)
 * **Cloud Optimisation**
     * Traffic and Campain Management, AutoScale, Capacity Management
     * Performance Analysis, Shrink to Grow
