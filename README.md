@@ -200,7 +200,9 @@ Automation = Power, we are ready to automate all your IT Processes!
 - [x] [Supereon](https://supereon.co.uk/) `Networking Company (United Kingdom)`
 
 ----
-Head Office (Turkey): `Halkali Mrz. Mh. Kucukcekmece - Istanbul`, Branch Office (Germany): `Schluchseestraße 67 13469 - Berlin`
+Head Office (Turkey): `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
+
+Branch Office (Germany): `Schluchseestraße 67 13469 - Berlin`
 
 
 
