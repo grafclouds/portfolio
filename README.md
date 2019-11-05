@@ -4,8 +4,6 @@
 ---
 🚀 **[What We Do?](#what-we-do)**
   * **[Cloud's](#️-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)**
-    * [Cloud Consultancy](#️-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-rackspace-blueocean-ovh)
-    * [Serverless, Docker / Kubernetes / Swarm](#cloud-serverless-docker--kubernetes--swarm)
   * **[DevOps](#octocat-devops)**
   * **[Site Reliability Engineering](#site-reliability)**
   * **[SecOps & Cyber Security](#secops--cyber-security)**
@@ -63,18 +61,6 @@ Are you ready to relocate to the cloud without pain and pay less?
     * Certificate Management, SSL Offload on Load Balancers
     * DOS Protection
 
-#### :cloud: Serverless _(Docker / Kubernetes / Swarm)_
-* Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
-* Kubernetes on AWS, Azure, Google Cloud
-* Ingress Traffic Management
-* POD / Node / Deployment Management
-* Persist Data Management
-* Kubernetes Monitoring and Logging
-* Convert Legacy Aplications to Micro Services
-* Container Based Deployment
-* Create Helm Charts
-* DTR, EKS Management
-
 #### :circus_tent: Site Reliability Engineering
 * **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
     * Deploy Hybrid Cloud (OnPrem-Public)
@@ -105,6 +91,17 @@ Are you ready to relocate to the cloud without pain and pay less?
 ---
 
 #### :octocat: Devops
+* **Serverless _(Docker / Kubernetes / Swarm)_**
+    * Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
+    * Kubernetes on AWS, Azure, Google Cloud
+    * Ingress Traffic Management
+    * POD / Node / Deployment Management
+    * Persist Data Management
+    * Kubernetes Monitoring and Logging
+    * Convert Legacy Aplications to Micro Services
+    * Container Based Deployment
+    * Create Helm Charts
+    * DTR, EKS Management
 * **Repository Management**
     * GitHub
     * Bitbucket
