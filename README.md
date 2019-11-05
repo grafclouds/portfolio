@@ -2,11 +2,12 @@
 **Graf-Clouds** is an IT Engineering Company, making IT operations simple for **6 years**...
 
 Contact Details:
-Phone: 
+
+📟  Phone: 
  * +90 542 785 2900 [Turkey]
  * +49 176 23703301 [Europe]
 
-Email: info@grafclouds.com
+✉️: info@grafclouds.com
 
 Address: 
  * Head Office (Turkey): Halkali Mrz. Mh. Kucukcekmece | Istanbul
