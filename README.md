@@ -31,11 +31,14 @@ Our Partners
 ## What We Do?
 #### ☁️ Cloud Consultancy _(AWS, Azure, Google Cloud, Vmware Cloud, RackSpace, BlueOcean, OVH)_
 Are you ready to relocate to the cloud without pain and pay less? 
-* **Lift & Shift to the Cloud**
+* **Cloud Lift & Shift (Amazon Web Services, Azure, Google Cloud)**
     * Cloud Modeling (IaaS, PaaS, SaaS)
     * Migrate Legacy Applications / Infrastructure to Cloud
     * Manage Cloud Components, Virtual Networks
     * Backup to Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
+    * Vmware Cloud on AWS (VMC)
+* **Cloud Support (Amazon Web Services, Azure, Google Cloud)**
+* Support Cloud Components (Decrease Costs, Increase Stability)
 * **Cloud Optimisation**
     * Traffic and Campain Management, AutoScale, Capacity Management
     * Performance Analysis, Shrink to Grow
@@ -46,6 +49,7 @@ Are you ready to relocate to the cloud without pain and pay less?
     * Infrastructure as a Code (GitOps)
     * Cloud Automation with Ansible, Chef, Saltstack, Terraform
     * Auto Scale, Auto Destroy, Auto Deploy
+* **Cloud Monitoring (Uptrends & VictorOps)**   
 * **Cloud Security**
     * Hiding the Cloud (Akamai, CloudFlare)
     * Security Rules Checks, BPA
