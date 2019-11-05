@@ -35,9 +35,11 @@ Are you ready to relocate to the cloud without pain and pay less?
     * Design Cloud Infrastructure (Hybrid + With Different Vendors)
     * Cloud Modeling (IaaS, PaaS, SaaS)
     * Migrate Legacy Applications / Infrastructure to Cloud
-    * Manage Cloud Components, Virtual Networks
+    * Build Cloud Networks, Virtual Networks (VPC, Elastic IP, ALB, ELB)
+    * Build Site-to-Site VPN, IP Design, BGP Anouncements
+    * Build Cloud Storage Area (S3, EBS, Azure Blob, EFS), Storage Gateways
     * Backup to Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
-* **Cloud Optimisation**
+* **Cloud Optimisations**
     * Traffic and Campain Management, AutoScale, Capacity Management
     * Performance Analysis, Shrink to Grow
     * Convert On-demand to Reserved Instances, Forecast Follow
@@ -46,21 +48,20 @@ Are you ready to relocate to the cloud without pain and pay less?
 * **Cloud Automation**
     * Infrastructure as a Code (GitOps)
     * Cloud Automation with Ansible, Chef, Saltstack, Terraform
-    * Auto Scale, Auto Destroy, Auto Deploy
-* **Cloud Monitoring (Uptrends & VictorOps)**   
+    * Auto Scale (Scheduled, With Load), Auto Destroy (Cost Reduce), Auto Deploy
+    * Auto Recover (Failure Detection, Auto Restart)
+* **Cloud Monitoring (Uptrends & VictorOps)**
+    * Monitor Infrastructure 7/24 with Cloud Tools
+    * On Call Management with Bots
+    * Collobration with Slack, Skype, Jira
 * **Cloud Security**
     * Hiding the Cloud (Akamai, CloudFlare)
     * Security Rules Checks, BPA
     * Traffic Separation with Content Distribution (CDN)
     * GeoLocation Restrictions (GRPR Compliances)
-    * Advanced Securing with WAF 
+    * Advanced Securing with Cloud WAF
+    * Certificate Management, SSL Offload on Load Balancers
     * DOS Protection
-* **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
-    * Deploy Hybrid Cloud (OnPrem-Public)
-    * Design & Deploy Virtual Infrastructure, Datastores
-    * Health Check to Hypervisors
-    * Disaster Recovery (DR to Onperm, DR to Cloud)
-    * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
 
 #### :cloud: Serverless _(Docker / Kubernetes / Swarm)_
 * Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
@@ -75,6 +76,12 @@ Are you ready to relocate to the cloud without pain and pay less?
 * DTR, EKS Management
 
 #### :circus_tent: Site Reliability Engineering
+* **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
+    * Deploy Hybrid Cloud (OnPrem-Public)
+    * Design & Deploy Virtual Infrastructure, Datastores
+    * Health Check to Hypervisors
+    * Disaster Recovery (DR to Onperm, DR to Cloud)
+    * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
 * **Microsoft Servers**
     * Active Directory (BPA, Upgrade, Troubleshoot, GPO)
     * Messaging Collaborations (Exchange, Office 365)
