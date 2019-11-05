@@ -24,7 +24,7 @@ Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WN
 
 :octocat: **[Organization & Resumes](#octocat-organization--resumes)**
   
-📋 **[References](#-technology-partners)**
+📋 **[References](#-some-references)**
 
 Our References and Completed Projects
 
