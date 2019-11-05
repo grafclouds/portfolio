@@ -1,4 +1,4 @@
-## M. Serdar SARIOGLU _(Cloud Solution Architect & Security Expert)_
+## M. Serdar SARIOGLU _(Senior Site Reliability Engineer, Security Expert, Architect)_
 **GSM**: +90 541-831-9252 | **Email**: serdar.sarioglu@icloud.com | **LinkedIn**: [in/serdarsarioglu](https://www.linkedin.com/in/serdarsarioglu/)
 
 ---
