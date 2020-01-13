@@ -3,7 +3,15 @@
 
 ---
 #### Work History
-**Cloud Solutions & DevOps Architect**, _General Electric (Energy) 2017 – Present_<br />
+**Cloud Solutions & DevOps Architect**, _GrafClouds 2019 – Present_<br />
+Focus on Cloud Lift & Shift
+
+  * Work with Developer PODS, Design Cloud Architecture
+  * Migrate Legacy Applications to Docker Kubernetes/Swarm Clusters
+  * Build Pipelines with Jenkins, Make Automations on Cloud
+  * Work with Developer PODS, Design Cloud Architecture
+
+**Cloud Solutions & DevOps Architect**, _General Electric (Energy) 2017 – 2019_<br />
 Responsible for GE Aviation’s Cloud Infra, designing new engages and migrations. Building CD/CI and automations for AWS, Azure and Predix. Helping teams for their DevOps and SecOps operations.
 
   * Work with Developer PODS, Design Cloud Architecture
