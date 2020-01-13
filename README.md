@@ -2,8 +2,8 @@
 **Graf-Clouds** is an IT Engineering Company, making IT operations simple for **6 years**...
 
 📱On Call Phones: 
- * `+90 541 831 9252` [Turkey, Technical] (GMT +3)
- * `+49 176 23703301` [Europe, Technical] (GMT +3)
+ * `+90 541 831 9252` [Turkey, GMT +3]
+ * `+49 176 23703301` [Europe, GMT +1]
  
 Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `info@grafclouds.com`
 
@@ -172,12 +172,12 @@ Automation = Power, we are ready to automate all your IT Processes!
 ---
 
 #### :octocat: Organization & Resumes
-- [x] [Ali Ozan Tunc (Dubai)](Resumes): `Founder & General Manager`
-- [x] [Omer Telli (Turkey)](Resumes): `Co-Founder & Country Manager`
-- [x] [Serdar Sarioglu (Turkey & Germany)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert, Architect`
+- [x] [Burcu SARIOGLU](Resumes): `Founder`
+- [x] [Ali Ozan Tunc (Dubai)](Resumes): `General Manager`
+- [x] [Serdar Sarioglu (Turkey & Germany)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability, Security Expert, Cloud Architect`
+- [x] [Ishak Arslan (Turkey)](Resumes): `Senior SecOps Expert, L2 Support`
 - [x] [Canberk Aslan (Turkey)](Resumes/Canberk-Aslan.md): `Senior DevOps Expert, Design & L2 Support`
 - [x] [Fatih Sarioglu (Turkey)](Resumes/Fatih-Sarioglu.md): `Junior Cloud Expert, L1 Support`
-- [x] [Ishak Arslan (Turkey)](Resumes): `SecOps Expert, L2 Support`
 - [x] [Murat Tanirkan (Germany)](Resumes): `Senior Cloud Engineer, L2 Support`
 - [x] [Mustafa Cifci (Turkey)](Resumes): `Senior FullStack Software Developer`
 ---
