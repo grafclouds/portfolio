@@ -2,8 +2,8 @@
 **Graf-Clouds** is an IT Engineering Company, making IT operations simple for **6 years**...
 
 📱On Call Phones: 
- * `+90 541 831 9252` [Turkey, Technical]
- * `+49 176 23703301` [Europe, Technical]
+ * `+90 541 831 9252` [Turkey, Technical] (GMT +3)
+ * `+49 176 23703301` [Europe, Technical] (GMT +3)
  
 Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `info@grafclouds.com`
 
