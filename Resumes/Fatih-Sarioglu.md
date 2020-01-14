@@ -1,28 +1,60 @@
-## Fatih SARIOGLU _(Junior Cloud Expert)_
-**GSM**: +90 535-504-61-85 | **Email**: fatih.sarioglu@grafclouds.com | **LinkedIn**: [/in/fatihsarioglu/](https://www.linkedin.com/in/fatihsarioglu/)
+## M. Serdar SARIOGLU _(Junior DevOps & Cloud Expert)_
+**GSM**: +90 541-535-6185 | **Email**: fatih.sarioglu@mysystem.org | **LinkedIn**: [in/fatihsarioglu](https://www.linkedin.com/in/fatihsarioglu/)
 
 ---
 #### Work History
-**Cloud Expert**, _GrafClouds 2015 – Present_<br />
-Responsible for creating virtual machines with their infrastructures and adjusting network settings.
+**Cloud Support Engineer**, _GrafClouds 2014 – Present_<br />
+Amazon Web Services
 
-  * Install Virtual Machines and Servers 
-  * Deploy VPC, Content Networks, Web Servers, Database Servers 
-  * Follow Backups, Disaster Sites 
-  * Check Daily Routine monitoring on Cloud with New Relic
-  * Start-Stop Auto Virtual Machines
+* Managing EC2, ECR, ECS, S3 and AWS tools,
+* Designing Security Rules
+* CDN, LoadBalancer, Auto Scale, VPN
+* Daily Routine monitoring on Cloud with New Relic
+
+Virtual & Cloud Things
+
+* vCenter, HyperV, Veeam, VMware, ESXI
+* Hosting and Domain Management
+* CloudFlare Management
+
+Servers and System Management
+
+* Centos, Ubuntu, Linux (Setting up Substructures)
+* Windows Servers (Active Directory, Group Policy, DNS, FileServers,)
+* Firewalls (Cyberoam, Sophos)
+* Web Servers Management
+
+DevOps
+
+* Git-Docker-Jenkins-Aws(Ecr,Ecs)-Slack-CI/CD
+
+**Project & Organizations**
+
+* Wettarene AWS Design and Deployment (2 Regions and 1 DR on Malta)
+* Harput Holding Cloud Migration Project
+
+--- 
+
 
 
 ---
-#### Education & Languages
-  * **BA**; Planetary Astronomy and Science EU 2007-2013
+#### Education, Languages & Communities
+
+  * **BA**; Astronomy & Space Science EU(2014)
   * **English**: C1 | **Turkish**: ML
+  
+  AWS USER GROUP TURKEY
+* Aws Meetup 11 - Ec2 Management
+* Aws Meetup 20 - Container Management
+* Aws Meetup 21 - Artificial Intelligence & Machine Learning
+* Aws Meetup 24 - Aws with Kubernetes
 
 
+---  
 
 ---
 #### Skill Keywords
-Cloud, Project Management, Audit, Security, Amazon Web Services, Azure, Google Cloud, Kubernetes, Docker, Ansible, Jenkins, ACSA, CCSP, MCSE, CEH, VCP, CCNA, Agile, Scrum, CI/CD, Distributed Systems
+Cloud, DevOps, Security, Amazon Web Services,  Docker, Jenkins,  Scrum, CI/CD, Distributed Systems
 
 ---
-`⌘  Last Update: Nov 2018`
+`⌘  Last Update: Jan 2020`
