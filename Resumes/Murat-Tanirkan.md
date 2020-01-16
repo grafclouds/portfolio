@@ -42,9 +42,9 @@ I am responsible for the operational 24×7 availability of Refinery (IT) Process
 
 ---
 #### Education & Languages
-  * **MSc**; Computer Engineering & Artificial Intelligence - Ozyegin University (Cont.)
-  * **BA**; Computer Engineering - Yeditepe University (2011)
-  * **English**: C2 | **German**: B1 | **Turkish**: ML
+  * **BA**; Business Administration - Anadolu University (2011)
+  * **VS**; Network and System Administration - Fatih University (2008)
+  * **English**: B2 | **German**: B2 | **Turkish**: ML
 
 ---  
 #### Certifications
