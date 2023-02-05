@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/grafclouds/portfolio/master/graf_clouds_logo_white.png" height="200">
+</p> 
+
 ## 🌟Graf Clouds Portfolio
 **Graf-Clouds** is an IT Engineering Company, making IT operations simple for **7 years**...
 
