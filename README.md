@@ -1,11 +1,14 @@
 ## 🌟Graf Clouds Portfolio
 **Graf-Clouds** is an IT Engineering Company, making IT operations simple for **7 years**...
 
-📱On Call Phones: 
- * `+90 541 831 9252` [Turkey, GMT +3]
- * `+49 176 23703301` [Europe, GMT +1]
+> **Warning** 
+> *For Urgent Support Requests please use our 📱On-Call Phones*
+
+>
+> * `+90 541 831 9252` [Turkey, GMT +3]
+> * `+359 88 889 9023` [Europe, GMT +1]
  
-Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `info@grafclouds.com`
+Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `support@grafclouds.com`
 
 ---
 🚀 **[What We Do?](#what-we-do)**
@@ -204,6 +207,10 @@ Automation = Power, we are ready to automate all your IT Processes!
 - [x] [Head Office (Turkey)](https://grafclouds.com) `Karabaş, Hafız Binbaşı Cd. No:6, 41040 İzmit/Kocaeli`
 - [x] [Branch Office (Germany)](https://grafclouds.com) `Schluchseestraße 67 13469 - Berlin`
 ---
+> **Note** 
+> 
+> *We are here for you!*
+
 
                         ##         .
                   ## ## ##        ==
